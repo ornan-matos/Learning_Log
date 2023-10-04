@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Imagem Escalável</title>
+</head>
+<body>
+    <h1>Imagens Dinâmicas</h1>
+    <p>Dependendo da resolução de tela do dispositivo a imagem sera ajustada para o tamanho adequado.</p>
+    <picture>
+        <source media="(max-width: 710px)" srcset="IMG/P.jpg" type="image/jpg">
+        <source media="(max-width: 1030px)" srcset="IMG/M.jpg" type="image/jpg">
+        <img src="IMG/G.jpg" alt="Imagem Flexível">
+    </picture>
+    <p>Ir para o <a href="index2.html" rel="next">próximo exemplo</a></p>
+</body>
+</html>

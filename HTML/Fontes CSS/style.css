@@ -1,0 +1,30 @@
+
+@font-face {
+    font-family: "Gun";
+    src: url("font/gunplay_3d.otf") format("opentype");
+}
+@import url('https://fonts.googleapis.com/css2?family=Alkatra:wght@400;500;600;700&display=swap');
+
+h1 {
+    font-family: 'Alkatra', cursive;
+    text-align: center;
+}
+
+h2 {
+    font-family: 'Gun';
+    font-weight: normal;
+    font-style: normal;
+    font-size: 2em;
+}
+
+h3, h4 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.2em;
+}
+
+p {
+    font-family: Helvetica, sans-serif;
+    text-align: justify;
+    font-weight: lighter;
+    font-size: 1.1em;
+}

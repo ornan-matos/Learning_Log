@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Imagem Crop</title>
+</head>
+<body>
+    <h1>Imagens Dinâmicas Crop</h1>
+    <p>A imagem será cortada e obedecera a resolução da tela. <a href="index.html" rel="prev">Voltar para o exemplo 1</a></p>
+    <picture>
+        <source media="(max-width: 420px)" srcset="IMG/250.jpg" type="image/jpg">
+        <source media="(max-width: 620px)" srcset="IMG/400.jpg" type="image/jpg">
+        <source media="(max-width: 820px)" srcset="IMG/600.jpg" type="image/jpg">
+        <source media="(max-width: 1020px)" srcset="IMG/800.jpg" type="image/jpg">
+        <img src="IMG/1000.jpg" alt="Imagem Crop">
+    </picture>
+</body>
+</html>
