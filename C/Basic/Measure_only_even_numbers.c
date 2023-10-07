@@ -29,7 +29,7 @@ int main(){
 
     else
     {
-        printf("\n\n Desculpe! A somas dos valores inseridos não é par.\n"); 
+        printf("\n\n Desculpe! A somas dos valores inseridos não é par.\n"); // mensagem de erro
     }
     
     return 0; 
