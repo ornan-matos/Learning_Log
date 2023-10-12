@@ -20,5 +20,5 @@ Para começar, aqui está algumas linguagens que tenho dado enfase em minha carr
 
 É importante destacar que registrar prática é fundamental para consolidar novos conhecimentos, aprimorar habilidades  e identificar possíveis dificuldades. E esse são alguns do motivos que me impulsiona a alimentar esse repositório.
 
-📬 
-Se você quiser saber mais sobre mim ou entrar em contato comigo, fique à vontade para me enviar uma mensagem aqui no Github ou através do meu e-mail **ornanmatos@outlook.com**. Agradeço por visitar meu repositório e espero ter a oportunidade de compartilhar conhecimentos com você no futuro!
+ 
+Se você quiser saber mais sobre mim ou entrar em contato comigo, fique à vontade para me enviaruma mensagem aqui no Github ou através do meu e-mail **ornanmatos@outlook.com**. Agradeço por visitar meu repositório e espero ter a oportunidade de compartilhar conhecimentos com você no futuro!
