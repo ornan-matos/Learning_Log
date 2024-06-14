@@ -1,6 +1,5 @@
 ##############################################################################
 
-# Programa de Cálculo de Reajuste Salarial
 # Este programa tem como objetivo calcular 
 #o novo salário de um funcionário após um reajuste.
 # O reajuste é de 10% para salários acima de R$ 1250 e de 15% 
