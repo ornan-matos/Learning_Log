@@ -1,38 +1,40 @@
-##########################################################################
+##################################################################
 
-#Este código implementa uma calculadora simples em Python que permite ao usuário 
-#realizar as quatro operações matemáticas básicas:
-#adição, subtração, multiplicação e divisão. 
-#O programa solicita ao usuário que escolha a operação desejada e 
-#insira os dois números a serem operados. 
-#Em seguida, ele calcula e exibe o resultado.
+#Este programa permite ao usuário realizar operações 
+#matemáticas básicas (adição, subtração, multiplicação e divisão)
+#escolhendo a operação desejada e inserindo os números a serem 
+#calculados.
 
-##########################################################################
+##################################################################
 
+print("\t\nMini Calculadora\n")  # Imprime o título da calculadora
 
-# Cabeçalho: Calculadora Simples
-print('Operação Matemática\n') # Título do programa
+# Exibe o menu de opções para o usuário
+print("Qual operação:\n1 - Adição\n2 - Subtração\n3 - Multiplicação\n4 - Divisão\n")
 
-# Solicita ao usuário para escolher a operação
-operacao = int(input(' 1 - Adição\n 2 - Subtração\n 3 - Multiplicação\n 4 - Divisão\n')) 
+a = int(input())  # Lê a opção escolhida pelo usuário e converte para inteiro
 
-# Solicita os dois números ao usuário
-num1 = int(input('Insira o primeiro número: \n'))
-num2 = int(input('Insira o segundo número: \n'))
+# Verifica a opção escolhida e executa a operação correspondente
+if a == 1:
+    x = int(input("Insira o primeiro número: "))  # Lê o primeiro número
+    y = int(input("Insira o segundo número: "))   # Lê o segundo número
+    print("Total: ", x + y)  # Imprime o resultado da adição
 
-# Bloco condicional para realizar a operação escolhida
-if operacao == 1: # Adição
-    resultado = num1 + num2
-    print(f'{num1} + {num2} = {resultado}') # Exibe o resultado da adição
-elif operacao == 2: # Subtração
-    resultado = num1 - num2
-    print(f'{num1} - {num2} = {resultado}') # Exibe o resultado da subtração
-elif operacao == 3: # Multiplicação
-    resultado = num1 * num2
-    print(f'{num1} x {num2} = {resultado}') # Exibe o resultado da multiplicação
-elif operacao == 4: # Divisão
-    resultado = num1 / num2
-    print(f'{num1} / {num2} = {resultado}') # Exibe o resultado da divisão
-else: # Opção inválida
-    print('Desculpe, não reconheço essa opção. Tente novamente.')
+elif a == 2:
+    x = int(input("Insira o primeiro número: "))
+    y = int(input("Insira o segundo número: "))
+    print("Total: ", x - y)  # Imprime o resultado da subtração
 
+elif a == 3:
+    x = int(input("Insira o primeiro número: "))
+    y = int(input("Insira o segundo número: "))
+    print("Total: ", x * y)  # Imprime o resultado da multiplicação
+
+elif a == 4:
+    x = int(input("Insira o primeiro número: "))
+    y = int(input("Insira o segundo número: "))
+    print("Total: ", x / y)  # Imprime o resultado da divisão
+
+# Caso a opção seja inválida, exibe uma mensagem de erro
+else:
+    print("Desculpe, opção invalida.")
