@@ -1,6 +1,6 @@
 # LERANING LOG
 
-Olá e bem-vindo(a) ao meu portfólio de **novas habilidades** no Gitlab!
+Olá e bem-vindo(a) ao meu portfólio de **novas habilidades** no Github!
 
 Aqui você encontrará alguns dos meus experimentos mais recentes e interessantes, relacionados a linguagens que venho aprendendo diariamente. Tenho agregando esse conhecimento ao meu repertorio através de pequenos projetos e arquivos que podem ser executados e testados por qualquer pessoa.
 
