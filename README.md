@@ -22,3 +22,5 @@ Para começar, aqui está algumas linguagens que tenho dado enfase em minha carr
 
  
 Se você quiser saber mais sobre mim ou entrar em contato comigo, fique à vontade para me enviaruma mensagem aqui no Github ou através do meu e-mail **ornanmatos@outlook.com**. Agradeço por visitar meu repositório e espero ter a oportunidade de compartilhar conhecimentos com você no futuro!
+
+Acesse [ornan.dev](http://ornan.dev) para obter informações sobre a minha trajetória profissional.
