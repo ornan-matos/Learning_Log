@@ -21,9 +21,16 @@ deposito_mensal = 0
 
 # Loop para calcular os juros e o saldo para cada um dos 24 meses
 while mes <= 24:
-    # Calcula os juros ganhos no mês
-    juros_ganhos = ((saldo + deposito_mensal + total_juros) / 100) * taxa_juros
     
+    print('\n----------------------------------')
+    print(f'Mês {mes}\n')
+ 
+    if mes >= 2:
+        deposito_mensal = float(input('Deposito do presente mês R$: '))
+
+    # Calcula os juros ganhos no mês
+    juros_ganhos = ((saldo + deposito_mensal) / 100) * taxa_juros
+
     # Atualiza o saldo com os juros ganhos
     saldo = saldo + juros_ganhos + deposito_mensal
     
@@ -31,12 +38,6 @@ while mes <= 24:
     total_juros = total_juros + juros_ganhos
     
     # Exibe as informações do mês atual
-    print('\n----------------------------------')
-    print(f'Mês {mes}\n')
-
-    if mes >= 2:
-        deposito_mensal = float(input('Deposito do presente mês R$: '))
-
     print(f'\nTotal de juros ganhos \nR$ {total_juros:.2f}')
     print(f'\nSaldo \nR$ {saldo:.2f}')
     
