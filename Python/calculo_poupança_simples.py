@@ -17,14 +17,16 @@ taxa_juros = float(input('Taxa de Juro (Porcentagem):'))
 mes = 1           # Contador de meses
 saldo = deposito  # Saldo inicial é igual ao depósito inicial
 total_juros = 0   # Acumulador de juros ganhos
-deposito_mensal = 0
+deposito_mensal = 0 #Acumulador de depósitos realizados mensalmente
 
 # Loop para calcular os juros e o saldo para cada um dos 24 meses
 while mes <= 24:
-    
-    print('\n----------------------------------')
-    print(f'Mês {mes}\n')
  
+    #Sinalização do mês impresso na tela 
+    print('\n----------------------------------')
+    print(f'Mês {mes}\n') 
+ 
+    #Novos depósitos iniciam a partir do segundo mês
     if mes >= 2:
         deposito_mensal = float(input('Deposito do presente mês R$: '))
 
