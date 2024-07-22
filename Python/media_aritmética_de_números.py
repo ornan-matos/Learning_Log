@@ -30,6 +30,6 @@ else:
     media = 0
 
 # Exibe os resultados
-print(f"Quantidade de números digitados: {quantidade_numeros}")
-print(f"Soma dos números digitados: {soma_numeros}")
-print(f"Média aritmética dos números digitados: {media}")
+print(f"\nQuantidade de números digitados: {quantidade_numeros}")
+print(f"\nSoma dos números digitados: {soma_numeros}")
+print(f"\nMédia aritmética dos números digitados: {media}")
