@@ -4,7 +4,7 @@ valor = int(input("\nDigite o valor a pagar:"))
 
 # Inicializa a quantidade de cédulas e a denominação atual
 cedulas = 0
-atual = 50
+atual = 100
 apagar = valor
 
 # Loop para distribuir as cédulas até que o valor total seja pago
@@ -23,7 +23,10 @@ while True:
         if apagar == 0:
             break
         # Atualiza a denominação da cédula para a próxima menor disponível
-        if atual == 50:
+
+        if atual == 100:
+            atual = 50
+        elif atual == 50:
             atual = 20
         elif atual == 20:
             atual = 10
