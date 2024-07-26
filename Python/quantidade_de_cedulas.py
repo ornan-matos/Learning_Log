@@ -4,7 +4,7 @@ valor = int(input("\nDigite o valor a pagar:"))
 
 # Inicializa a quantidade de cédulas e a denominação atual
 cedulas = 0
-atual = 100
+atual = 200
 apagar = valor
 
 # Loop para distribuir as cédulas até que o valor total seja pago
@@ -19,12 +19,16 @@ while True:
     else:
         # Imprime a quantidade de cédulas da denominação atual utilizadas
         print(f'{cedulas} cédula(s) de R$ {atual}')
+
         # Verifica se o valor total já foi completamente pago
         if apagar == 0:
             break
-        # Atualiza a denominação da cédula para a próxima menor disponível
+        
 
-        if atual == 100:
+        # Atualiza a denominação da cédula para a próxima menor disponível
+        if atual == 200:
+            atual = 100
+        elif atual == 100:
             atual = 50
         elif atual == 50:
             atual = 20
@@ -33,7 +37,10 @@ while True:
         elif atual == 10:
             atual = 5
         elif atual == 5:
+            atual = 2
+        elif atual == 2:
             atual = 1
+
         # Reseta o contador de cédulas para a nova denominação
         cedulas = 0
 
