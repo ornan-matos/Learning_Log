@@ -1,11 +1,15 @@
 
 # Solicita ao usuário para digitar o valor a ser pago
-valor = int(input("\nDigite o valor a pagar:"))
+valor =  float(input("\nDigite o valor a pagar:"))
 
 # Inicializa a quantidade de cédulas e a denominação atual
 cedulas = 0
 atual = 200
-apagar = valor
+apagar = int(valor)
+
+atual_f = 0.50
+apagar_f = float(valor - apagar)
+moedas = 0
 
 # Loop para distribuir as cédulas até que o valor total seja pago
 while True:
@@ -43,5 +47,33 @@ while True:
 
         # Reseta o contador de cédulas para a nova denominação
         cedulas = 0
+
+
+while True:
+    
+    if atual_f <= apagar_f:
+
+        apagar_f -= atual_f
+
+        moedas += 1
+
+    else:
+
+        print(f'{moedas} moeda(s) de R$ {atual_f:0.2f}')
+        
+        if atual_f == 0:
+            break
+
+        if atual_f == 0.50:
+            atual_f = 0.25
+        elif atual_f == 0.25:
+            atual_f = 0.10
+        elif atual_f == 0.10:
+            atual_f = 0.05
+        elif atual_f == 0.05:
+            atual_f = 0.01
+
+        moedas = 0
+
 
 
