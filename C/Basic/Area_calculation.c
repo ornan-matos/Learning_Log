@@ -3,8 +3,7 @@
 #include <math.h>
 
 /*
-O programa irá calcular a área de um círculo de raio r, testando ao final se o valor da area é
-menor que zero.
+O programa irá calcular a área de um círculo de raio r, testando ao final se o valor da area é menor que zero.
 */
 
 int main()
