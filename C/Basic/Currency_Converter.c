@@ -2,6 +2,10 @@
 #include <stdio.h>
 #include <math.h>
 
+/*
+Este código em C realiza a conversão de um valor monetário de dólares para reais, considerando uma taxa de câmbio fixa de 4,85 reais por dólar.
+*/
+
 int main(){
 
     float dolar;
