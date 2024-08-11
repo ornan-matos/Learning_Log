@@ -2,11 +2,11 @@
 #include <stdio.h>
 
 /* 
- * O programa calcula a média de uma série de números inseridos pelo usuário.
- * O usuário insere a quantidade de números que deseja fornecer e, em seguida,
- * insere cada um desses números. O programa usa um loop para coletar os números,
- * soma-os e calcula a média, exibindo o resultado ao final.
- */
+O programa calcula a média de uma série de números inseridos pelo usuário.
+O usuário insere a quantidade de números que deseja fornecer e, em seguida,
+insere cada um desses números. O programa usa um loop para coletar os números,
+soma-os e calcula a média, exibindo o resultado ao final.
+*/
 
 int main() {
     int n;  // Variável para armazenar a quantidade de números

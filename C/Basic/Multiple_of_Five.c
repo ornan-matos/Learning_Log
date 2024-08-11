@@ -1,6 +1,12 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+/*
+O programa imprime os múltiplos de 5 de 1 a 10.
+A saída mostra cada múltiplo de 5 no formato "5 x n = resultado",
+onde n varia de 1 a 10.
+*/
+
 int main(){
     printf("Esses são os múltiplos de 5:\n");
     printf("\n");

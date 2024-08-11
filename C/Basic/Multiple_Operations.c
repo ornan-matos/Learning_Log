@@ -1,6 +1,14 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+/**
+O programa executa quatro operações básicas: soma, subtração, multiplicação e divisão,
+com dois números inteiros que o usuário deve fornecer. Ele faz o seguinte:
+1. Solicita ao usuário que insira dois números inteiros.
+2. Calcula a soma, subtração, multiplicação e divisão desses números.
+3. Exibe os resultados das operações.
+ */
+
 int main(){
     printf("Operações básicas com dois números.\n");
     printf("\n");

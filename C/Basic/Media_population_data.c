@@ -1,8 +1,18 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
+
 /*
- 
+O programa realiza uma pesquisa com os residentes do município de Giropops, coletando dados sobre gênero, número de filhos e salário.
+Funcionamento:
+1. O usuário é questionado se reside em Giropops. Se a resposta for negativa, o programa encerra.
+2. O usuário deve confirmar se é maior de idade (+18). Se a resposta for negativa, o programa encerra.
+3. O usuário deve aceitar os termos de uso e privacidade para participar da pesquisa. Se a resposta for negativa, o programa encerra.
+4. O programa coleta dados de gênero, número de filhos e salário dos participantes até que o usuário escolha parar.
+5. Ao final, são calculadas e exibidas as seguintes estatísticas:
+   - Percentual de participantes por gênero.
+   - Média de filhos por família.
+   - Média de salários e maior salário registrado.
 */
 
 int main(){

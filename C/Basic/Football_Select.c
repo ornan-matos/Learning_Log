@@ -1,6 +1,13 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+/*
+O programa solicita ao usuário que escolha seu time de futebol preferido
+entre três opções disponíveis: Liverpool, Real Madrid e Ajax.
+O usuário deve inserir um número correspondente à sua escolha.
+O programa, então, exibe o número do time escolhido pelo usuário.
+*/
+
 int main() {
     int numero;
     printf("Escolha seu time de futebol preferido: \n");
