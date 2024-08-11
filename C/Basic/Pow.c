@@ -2,6 +2,15 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+/*
+Este programa calcula e exibe a potência de um número fornecido pelo usuário.
+O usuário é solicitado a inserir um número, e o programa calcula e mostra:
+- O quadrado do número
+- O cubo do número
+- A quarta potência do número
+O cálculo das potências é realizado usando a função pow() da biblioteca math.h.
+ */
+
 int main(){
     float num;
     printf("Digite um numero para descobrir a sua potencia:\n");

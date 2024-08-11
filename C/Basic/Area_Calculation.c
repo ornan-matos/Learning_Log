@@ -2,6 +2,12 @@
 #include <stdlib.h> // Biblioteca padrão para funções de alocação de memória e utilitários
 #include <math.h>   // Biblioteca padrão para funções matemáticas (não necessária aqui, mas pode ser útil para futuras alterações)
 
+/*
+ Este programa calcula a área de um retângulo com base nas dimensões fornecidas pelo usuário.
+ Ele solicita ao usuário que insira a largura e o comprimento do retângulo, calcula a área
+ multiplicando essas duas dimensões, e exibe o resultado formatado com duas casas decimais.
+ */
+
 // Função principal do programa
 int main()
 {
