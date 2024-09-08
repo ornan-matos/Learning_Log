@@ -1,22 +1,26 @@
 package main
 
 import "fmt"
+ 
+/*
 
-func mian()  {
-  nome := []string{}
+Programa para coletar e exibir três nomes fornecidos pelo usuário. O código solicita que o usuário insira três nomes, um de cada vez, e armazena esses nomes em um slice de strings. Em seguida, o programa imprime todos os nomes inseridos na mesma linha.
+
+*/
+
+func main() {  // Corrigido de 'mian' para 'main'
+  nomes := make([]string, 3)  // Cria um slice de strings com capacidade para 3 elementos
   
-  for i:=0; i < 3; i++{
-    if i == 0 {
-      fmt.Println("Insira o primeiro nome: ")
-      fmt.Scanf("s%", &nome)
-    } else if i == 1 {
-      fmt.Println("Insira o segundo nome: ")
-    } else if i == 2 {
-      fmt.Println("Insira o terceiro nome: ")
-    }
+  for i := 0; i < 3; i++ {
+    // Solicita ao usuário para inserir um nome com base no índice 'i'
+    fmt.Printf("Insira o %dº nome: ", i+1)
+    fmt.Scanf("%s", &nomes[i])  // Lê uma string do usuário e armazena no slice 'nomes'
   }
-  for x:=0; x < len(nome); x++{
-    fmt.Printf("%s", nome[x])
+  
+  fmt.Println("Nomes inseridos: ")
+  // Imprime cada nome armazenado no slice
+  for _, nome := range nomes {
+    fmt.Printf("%s ", nome)
   }
-  fmt.Println()
+  fmt.Println()  // Adiciona uma nova linha após a impressão dos nomes
 }
