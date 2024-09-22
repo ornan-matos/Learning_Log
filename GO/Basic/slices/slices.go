@@ -3,6 +3,13 @@ package main
 import "fmt"
 import "reflect"
 
+/*
+O código demonstra o uso de slices para armazenar coleções de dados. 
+Ele cria dois slices: um de strings chamado 'nomes' e um de inteiros chamado 'numeros'. 
+O código utiliza o pacote 'reflect' para imprimir o tipo de cada slice e a quantidade de elementos que eles contêm. 
+Além disso, ele exibe os valores armazenados em ambos os slices.
+*/
+
 func main() {
 	
 	//Atribuições de valores (string) ao slice nomes
