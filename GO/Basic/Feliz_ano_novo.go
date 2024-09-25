@@ -1,9 +1,12 @@
-// Este programa realiza uma contagem regressiva de 10 a 1.
-// Ele utiliza um loop 'for' para iterar de 10 até 1 e, a cada iteração,
-// diminui o valor do contador em 1 e espera por 1 segundo.
-// Ao final da contagem regressiva, o programa imprime "Feliz Ano Novo!".
 
 package main
+
+/*
+Este programa realiza uma contagem regressiva de 10 a 1.
+Ele utiliza um loop 'for' para iterar de 10 até 1 e, a cada iteração,
+diminui o valor do contador em 1 e espera por 1 segundo.
+Ao final da contagem regressiva, o programa imprime "Feliz Ano Novo!".
+*/
 
 import (
 	"fmt"

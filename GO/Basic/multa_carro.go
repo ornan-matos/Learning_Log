@@ -4,10 +4,12 @@ import (
 	"fmt"
 )
 
-// Este programa verifica se um carro foi multado em uma rodovia.
-// O usuário insere a velocidade do carro e o programa compara
-// essa velocidade com o limite permitido. Se a velocidade 
-// exceder o limite, o programa indica que o carro foi multado.
+/*
+Este programa verifica se um carro foi multado em uma rodovia.
+O usuário insere a velocidade do carro e o programa compara
+essa velocidade com o limite permitido. Se a velocidade 
+exceder o limite, o programa indica que o carro foi multado.
+*/
 
 func main() {
 	// Definimos o limite de velocidade da rodovia
