@@ -1,0 +1,14 @@
+/var/home/ornan/RiderProjects/hello/obj/Debug/net9.0/hello.GeneratedMSBuildEditorConfig.editorconfig
+/var/home/ornan/RiderProjects/hello/obj/Debug/net9.0/hello.AssemblyInfoInputs.cache
+/var/home/ornan/RiderProjects/hello/obj/Debug/net9.0/hello.AssemblyInfo.cs
+/var/home/ornan/RiderProjects/hello/obj/Debug/net9.0/hello.csproj.CoreCompileInputs.cache
+/var/home/ornan/RiderProjects/hello/bin/Debug/net9.0/hello
+/var/home/ornan/RiderProjects/hello/bin/Debug/net9.0/hello.deps.json
+/var/home/ornan/RiderProjects/hello/bin/Debug/net9.0/hello.runtimeconfig.json
+/var/home/ornan/RiderProjects/hello/bin/Debug/net9.0/hello.dll
+/var/home/ornan/RiderProjects/hello/bin/Debug/net9.0/hello.pdb
+/var/home/ornan/RiderProjects/hello/obj/Debug/net9.0/hello.dll
+/var/home/ornan/RiderProjects/hello/obj/Debug/net9.0/refint/hello.dll
+/var/home/ornan/RiderProjects/hello/obj/Debug/net9.0/hello.pdb
+/var/home/ornan/RiderProjects/hello/obj/Debug/net9.0/hello.genruntimeconfig.cache
+/var/home/ornan/RiderProjects/hello/obj/Debug/net9.0/ref/hello.dll
