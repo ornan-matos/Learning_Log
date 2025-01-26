@@ -1,0 +1,15 @@
+/var/home/ornan/DevOps/Learning_Log/C#/Formatação_de_Saída/Format/bin/Debug/net9.0/Format
+/var/home/ornan/DevOps/Learning_Log/C#/Formatação_de_Saída/Format/bin/Debug/net9.0/Format.deps.json
+/var/home/ornan/DevOps/Learning_Log/C#/Formatação_de_Saída/Format/bin/Debug/net9.0/Format.runtimeconfig.json
+/var/home/ornan/DevOps/Learning_Log/C#/Formatação_de_Saída/Format/bin/Debug/net9.0/Format.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Formatação_de_Saída/Format/bin/Debug/net9.0/Format.pdb
+/var/home/ornan/DevOps/Learning_Log/C#/Formatação_de_Saída/Format/obj/Debug/net9.0/Format.GeneratedMSBuildEditorConfig.editorconfig
+/var/home/ornan/DevOps/Learning_Log/C#/Formatação_de_Saída/Format/obj/Debug/net9.0/Format.AssemblyInfoInputs.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Formatação_de_Saída/Format/obj/Debug/net9.0/Format.AssemblyInfo.cs
+/var/home/ornan/DevOps/Learning_Log/C#/Formatação_de_Saída/Format/obj/Debug/net9.0/Format.csproj.CoreCompileInputs.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Formatação_de_Saída/Format/obj/Debug/net9.0/Format.sourcelink.json
+/var/home/ornan/DevOps/Learning_Log/C#/Formatação_de_Saída/Format/obj/Debug/net9.0/Format.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Formatação_de_Saída/Format/obj/Debug/net9.0/refint/Format.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Formatação_de_Saída/Format/obj/Debug/net9.0/Format.pdb
+/var/home/ornan/DevOps/Learning_Log/C#/Formatação_de_Saída/Format/obj/Debug/net9.0/Format.genruntimeconfig.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Formatação_de_Saída/Format/obj/Debug/net9.0/ref/Format.dll
