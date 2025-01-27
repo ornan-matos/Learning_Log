@@ -45,6 +45,30 @@ class variavel{
     //Interpolação de Strings
     Console.WriteLine($"\n{num9}\n{num10}\n{num11}");
     
+    //Operadores Aritméticos
+    Console.WriteLine(num1 + num2); //Adição
+    Console.WriteLine(num1 - num2); //Subtração
+    Console.WriteLine(num1 * num2); //Multiplicação
+    Console.WriteLine(num1 / num2); //Divisão
+    Console.WriteLine(num1 % num2); //Resto da Divisão
+    Console.WriteLine(-num1); //Negativo
+
+    //Outras formas de representação Aritmética
+    Console.WriteLine("\n");
+    num3 += 100;
+    Console.WriteLine(num3);
+    num3 -= 100;
+    Console.WriteLine(num3);
+    num3 *= 100;
+    Console.WriteLine(num3);
+    num3 /= 20;
+    Console.WriteLine(num3);
+    num3 %= 3;
+    Console.WriteLine(num3);
+
+
+    
+
     
   }
 }
