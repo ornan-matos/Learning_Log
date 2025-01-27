@@ -32,7 +32,19 @@ class variavel{
     ulong num8 = 18446744073709551615;
 
     //Interpolação de Strings
-    Console.WriteLine($"{num1}\n {num2}\n {num3}\n {num4}\n {num5}\n {num6}\n {num7}\n {num8}");
+    Console.WriteLine($"{num1}\n{num2}\n{num3}\n{num4}\n{num5}\n{num6}\n{num7}\n{num8}");
 
+    //Tipos de dados Númericos Decimais
+    //Float, Double, Decimal
+    float num9 = 20.123456789f; //6 - 9
+
+    double num10 = 20.12345678829384729839829; //15 - 17
+
+    decimal num11 = 20.39287492374972937496829348234M; //28 - 29
+    
+    //Interpolação de Strings
+    Console.WriteLine($"\n{num9}\n{num10}\n{num11}");
+    
+    
   }
 }
