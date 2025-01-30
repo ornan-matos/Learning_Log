@@ -1,0 +1,15 @@
+/var/home/ornan/DevOps/Learning_Log/C#/Entradas_de_Dados/bin/Debug/net9.0/Entradas_de_Dados
+/var/home/ornan/DevOps/Learning_Log/C#/Entradas_de_Dados/bin/Debug/net9.0/Entradas_de_Dados.deps.json
+/var/home/ornan/DevOps/Learning_Log/C#/Entradas_de_Dados/bin/Debug/net9.0/Entradas_de_Dados.runtimeconfig.json
+/var/home/ornan/DevOps/Learning_Log/C#/Entradas_de_Dados/bin/Debug/net9.0/Entradas_de_Dados.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Entradas_de_Dados/bin/Debug/net9.0/Entradas_de_Dados.pdb
+/var/home/ornan/DevOps/Learning_Log/C#/Entradas_de_Dados/obj/Debug/net9.0/Entradas_de_Dados.GeneratedMSBuildEditorConfig.editorconfig
+/var/home/ornan/DevOps/Learning_Log/C#/Entradas_de_Dados/obj/Debug/net9.0/Entradas_de_Dados.AssemblyInfoInputs.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Entradas_de_Dados/obj/Debug/net9.0/Entradas_de_Dados.AssemblyInfo.cs
+/var/home/ornan/DevOps/Learning_Log/C#/Entradas_de_Dados/obj/Debug/net9.0/Entradas_de_Dados.csproj.CoreCompileInputs.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Entradas_de_Dados/obj/Debug/net9.0/Entradas_de_Dados.sourcelink.json
+/var/home/ornan/DevOps/Learning_Log/C#/Entradas_de_Dados/obj/Debug/net9.0/Entradas_de_Dados.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Entradas_de_Dados/obj/Debug/net9.0/refint/Entradas_de_Dados.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Entradas_de_Dados/obj/Debug/net9.0/Entradas_de_Dados.pdb
+/var/home/ornan/DevOps/Learning_Log/C#/Entradas_de_Dados/obj/Debug/net9.0/Entradas_de_Dados.genruntimeconfig.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Entradas_de_Dados/obj/Debug/net9.0/ref/Entradas_de_Dados.dll
