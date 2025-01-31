@@ -1,0 +1,15 @@
+/var/home/ornan/DevOps/Learning_Log/C#/Tratamento_de_Strings/bin/Debug/net9.0/Tratamento_de_Strings
+/var/home/ornan/DevOps/Learning_Log/C#/Tratamento_de_Strings/bin/Debug/net9.0/Tratamento_de_Strings.deps.json
+/var/home/ornan/DevOps/Learning_Log/C#/Tratamento_de_Strings/bin/Debug/net9.0/Tratamento_de_Strings.runtimeconfig.json
+/var/home/ornan/DevOps/Learning_Log/C#/Tratamento_de_Strings/bin/Debug/net9.0/Tratamento_de_Strings.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Tratamento_de_Strings/bin/Debug/net9.0/Tratamento_de_Strings.pdb
+/var/home/ornan/DevOps/Learning_Log/C#/Tratamento_de_Strings/obj/Debug/net9.0/Tratamento_de_Strings.GeneratedMSBuildEditorConfig.editorconfig
+/var/home/ornan/DevOps/Learning_Log/C#/Tratamento_de_Strings/obj/Debug/net9.0/Tratamento_de_Strings.AssemblyInfoInputs.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Tratamento_de_Strings/obj/Debug/net9.0/Tratamento_de_Strings.AssemblyInfo.cs
+/var/home/ornan/DevOps/Learning_Log/C#/Tratamento_de_Strings/obj/Debug/net9.0/Tratamento_de_Strings.csproj.CoreCompileInputs.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Tratamento_de_Strings/obj/Debug/net9.0/Tratamento_de_Strings.sourcelink.json
+/var/home/ornan/DevOps/Learning_Log/C#/Tratamento_de_Strings/obj/Debug/net9.0/Tratamento_de_Strings.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Tratamento_de_Strings/obj/Debug/net9.0/refint/Tratamento_de_Strings.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Tratamento_de_Strings/obj/Debug/net9.0/Tratamento_de_Strings.pdb
+/var/home/ornan/DevOps/Learning_Log/C#/Tratamento_de_Strings/obj/Debug/net9.0/Tratamento_de_Strings.genruntimeconfig.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Tratamento_de_Strings/obj/Debug/net9.0/ref/Tratamento_de_Strings.dll
