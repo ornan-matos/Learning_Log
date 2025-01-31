@@ -1,0 +1,15 @@
+/var/home/ornan/DevOps/Learning_Log/C#/Metodos_de_Conversão/obj/Debug/net9.0/Metodos_de_Conversão.GeneratedMSBuildEditorConfig.editorconfig
+/var/home/ornan/DevOps/Learning_Log/C#/Metodos_de_Conversão/obj/Debug/net9.0/Metodos_de_Conversão.AssemblyInfoInputs.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Metodos_de_Conversão/obj/Debug/net9.0/Metodos_de_Conversão.AssemblyInfo.cs
+/var/home/ornan/DevOps/Learning_Log/C#/Metodos_de_Conversão/obj/Debug/net9.0/Metodos_de_Conversão.csproj.CoreCompileInputs.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Metodos_de_Conversão/obj/Debug/net9.0/Metodos_de_Conversão.sourcelink.json
+/var/home/ornan/DevOps/Learning_Log/C#/Metodos_de_Conversão/bin/Debug/net9.0/Metodos_de_Conversão
+/var/home/ornan/DevOps/Learning_Log/C#/Metodos_de_Conversão/bin/Debug/net9.0/Metodos_de_Conversão.deps.json
+/var/home/ornan/DevOps/Learning_Log/C#/Metodos_de_Conversão/bin/Debug/net9.0/Metodos_de_Conversão.runtimeconfig.json
+/var/home/ornan/DevOps/Learning_Log/C#/Metodos_de_Conversão/bin/Debug/net9.0/Metodos_de_Conversão.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Metodos_de_Conversão/bin/Debug/net9.0/Metodos_de_Conversão.pdb
+/var/home/ornan/DevOps/Learning_Log/C#/Metodos_de_Conversão/obj/Debug/net9.0/Metodos_de_Conversão.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Metodos_de_Conversão/obj/Debug/net9.0/refint/Metodos_de_Conversão.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Metodos_de_Conversão/obj/Debug/net9.0/Metodos_de_Conversão.pdb
+/var/home/ornan/DevOps/Learning_Log/C#/Metodos_de_Conversão/obj/Debug/net9.0/Metodos_de_Conversão.genruntimeconfig.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Metodos_de_Conversão/obj/Debug/net9.0/ref/Metodos_de_Conversão.dll
