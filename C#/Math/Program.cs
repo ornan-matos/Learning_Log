@@ -14,5 +14,8 @@ class aritimetica{
     Console.WriteLine(Math.Ceiling(3.4));
     //Arredonda para baixo
     Console.WriteLine(Math.Floor(3.4));
+
+    Console.WriteLine(Math.Max(3,7)); //Maior número
+    Console.WriteLine(Math.Min(3,7)); //Menor número
   }
 }
