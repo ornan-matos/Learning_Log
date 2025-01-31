@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/var/home/ornan.matos/Documents/Learning_Log/C#/Tratamento_de_Strings/Tratamento_de_Strings.csproj",
-      "projectName": "Tratamento_de_Strings",
-      "projectPath": "/var/home/ornan.matos/Documents/Learning_Log/C#/Tratamento_de_Strings/Tratamento_de_Strings.csproj",
+      "projectUniqueName": "/var/home/ornan.matos/Documents/Learning_Log/C#/Math/Math.csproj",
+      "projectName": "Math",
+      "projectPath": "/var/home/ornan.matos/Documents/Learning_Log/C#/Math/Math.csproj",
       "packagesPath": "/var/home/ornan.matos/.nuget/packages/",
-      "outputPath": "/var/home/ornan.matos/Documents/Learning_Log/C#/Tratamento_de_Strings/obj/",
+      "outputPath": "/var/home/ornan.matos/Documents/Learning_Log/C#/Math/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/var/home/ornan.matos/.nuget/NuGet/NuGet.Config"

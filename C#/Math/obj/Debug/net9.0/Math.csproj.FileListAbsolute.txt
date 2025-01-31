@@ -1,0 +1,15 @@
+/var/home/ornan.matos/Documents/Learning_Log/C#/Math/bin/Debug/net9.0/Math
+/var/home/ornan.matos/Documents/Learning_Log/C#/Math/bin/Debug/net9.0/Math.deps.json
+/var/home/ornan.matos/Documents/Learning_Log/C#/Math/bin/Debug/net9.0/Math.runtimeconfig.json
+/var/home/ornan.matos/Documents/Learning_Log/C#/Math/bin/Debug/net9.0/Math.dll
+/var/home/ornan.matos/Documents/Learning_Log/C#/Math/bin/Debug/net9.0/Math.pdb
+/var/home/ornan.matos/Documents/Learning_Log/C#/Math/obj/Debug/net9.0/Math.GeneratedMSBuildEditorConfig.editorconfig
+/var/home/ornan.matos/Documents/Learning_Log/C#/Math/obj/Debug/net9.0/Math.AssemblyInfoInputs.cache
+/var/home/ornan.matos/Documents/Learning_Log/C#/Math/obj/Debug/net9.0/Math.AssemblyInfo.cs
+/var/home/ornan.matos/Documents/Learning_Log/C#/Math/obj/Debug/net9.0/Math.csproj.CoreCompileInputs.cache
+/var/home/ornan.matos/Documents/Learning_Log/C#/Math/obj/Debug/net9.0/Math.sourcelink.json
+/var/home/ornan.matos/Documents/Learning_Log/C#/Math/obj/Debug/net9.0/Math.dll
+/var/home/ornan.matos/Documents/Learning_Log/C#/Math/obj/Debug/net9.0/refint/Math.dll
+/var/home/ornan.matos/Documents/Learning_Log/C#/Math/obj/Debug/net9.0/Math.pdb
+/var/home/ornan.matos/Documents/Learning_Log/C#/Math/obj/Debug/net9.0/Math.genruntimeconfig.cache
+/var/home/ornan.matos/Documents/Learning_Log/C#/Math/obj/Debug/net9.0/ref/Math.dll

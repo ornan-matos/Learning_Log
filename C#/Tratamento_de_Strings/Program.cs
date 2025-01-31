@@ -17,5 +17,11 @@ class tratamento{
     Console.WriteLine("\nInsira seu nome:");
     string nome = Console.ReadLine();
     Console.WriteLine(String.Format("\nOlá {0}, bem vindo!", nome));
+
+    string titulo = "presidente";
+    //Remove parte da string
+    Console.WriteLine(titulo.Substring(3,6));
+    //Substituir conteúdo da String
+    Console.WriteLine(titulo.Replace("presidente", "vice-presidente"));
   }
 }
