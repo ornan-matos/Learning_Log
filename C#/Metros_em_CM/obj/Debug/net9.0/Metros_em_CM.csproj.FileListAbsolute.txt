@@ -1,0 +1,15 @@
+/var/home/ornan/DevOps/Learning_Log/C#/Metros_em_CM/bin/Debug/net9.0/Metros_em_CM
+/var/home/ornan/DevOps/Learning_Log/C#/Metros_em_CM/bin/Debug/net9.0/Metros_em_CM.deps.json
+/var/home/ornan/DevOps/Learning_Log/C#/Metros_em_CM/bin/Debug/net9.0/Metros_em_CM.runtimeconfig.json
+/var/home/ornan/DevOps/Learning_Log/C#/Metros_em_CM/bin/Debug/net9.0/Metros_em_CM.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Metros_em_CM/bin/Debug/net9.0/Metros_em_CM.pdb
+/var/home/ornan/DevOps/Learning_Log/C#/Metros_em_CM/obj/Debug/net9.0/Metros_em_CM.GeneratedMSBuildEditorConfig.editorconfig
+/var/home/ornan/DevOps/Learning_Log/C#/Metros_em_CM/obj/Debug/net9.0/Metros_em_CM.AssemblyInfoInputs.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Metros_em_CM/obj/Debug/net9.0/Metros_em_CM.AssemblyInfo.cs
+/var/home/ornan/DevOps/Learning_Log/C#/Metros_em_CM/obj/Debug/net9.0/Metros_em_CM.csproj.CoreCompileInputs.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Metros_em_CM/obj/Debug/net9.0/Metros_em_CM.sourcelink.json
+/var/home/ornan/DevOps/Learning_Log/C#/Metros_em_CM/obj/Debug/net9.0/Metros_em_CM.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Metros_em_CM/obj/Debug/net9.0/refint/Metros_em_CM.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Metros_em_CM/obj/Debug/net9.0/Metros_em_CM.pdb
+/var/home/ornan/DevOps/Learning_Log/C#/Metros_em_CM/obj/Debug/net9.0/Metros_em_CM.genruntimeconfig.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Metros_em_CM/obj/Debug/net9.0/ref/Metros_em_CM.dll
