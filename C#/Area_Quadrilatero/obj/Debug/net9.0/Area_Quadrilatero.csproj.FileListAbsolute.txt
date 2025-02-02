@@ -1,0 +1,15 @@
+/var/home/ornan/DevOps/Learning_Log/C#/Area_Quadrilatero/bin/Debug/net9.0/Area_Quadrilatero
+/var/home/ornan/DevOps/Learning_Log/C#/Area_Quadrilatero/bin/Debug/net9.0/Area_Quadrilatero.deps.json
+/var/home/ornan/DevOps/Learning_Log/C#/Area_Quadrilatero/bin/Debug/net9.0/Area_Quadrilatero.runtimeconfig.json
+/var/home/ornan/DevOps/Learning_Log/C#/Area_Quadrilatero/bin/Debug/net9.0/Area_Quadrilatero.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Area_Quadrilatero/bin/Debug/net9.0/Area_Quadrilatero.pdb
+/var/home/ornan/DevOps/Learning_Log/C#/Area_Quadrilatero/obj/Debug/net9.0/Area_Quadrilatero.GeneratedMSBuildEditorConfig.editorconfig
+/var/home/ornan/DevOps/Learning_Log/C#/Area_Quadrilatero/obj/Debug/net9.0/Area_Quadrilatero.AssemblyInfoInputs.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Area_Quadrilatero/obj/Debug/net9.0/Area_Quadrilatero.AssemblyInfo.cs
+/var/home/ornan/DevOps/Learning_Log/C#/Area_Quadrilatero/obj/Debug/net9.0/Area_Quadrilatero.csproj.CoreCompileInputs.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Area_Quadrilatero/obj/Debug/net9.0/Area_Quadrilatero.sourcelink.json
+/var/home/ornan/DevOps/Learning_Log/C#/Area_Quadrilatero/obj/Debug/net9.0/Area_Quadrilatero.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Area_Quadrilatero/obj/Debug/net9.0/refint/Area_Quadrilatero.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Area_Quadrilatero/obj/Debug/net9.0/Area_Quadrilatero.pdb
+/var/home/ornan/DevOps/Learning_Log/C#/Area_Quadrilatero/obj/Debug/net9.0/Area_Quadrilatero.genruntimeconfig.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Area_Quadrilatero/obj/Debug/net9.0/ref/Area_Quadrilatero.dll
