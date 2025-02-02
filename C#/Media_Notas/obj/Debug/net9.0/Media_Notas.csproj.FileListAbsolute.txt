@@ -1,0 +1,15 @@
+/var/home/ornan/DevOps/Learning_Log/C#/Media_Notas/bin/Debug/net9.0/Media_Notas
+/var/home/ornan/DevOps/Learning_Log/C#/Media_Notas/bin/Debug/net9.0/Media_Notas.deps.json
+/var/home/ornan/DevOps/Learning_Log/C#/Media_Notas/bin/Debug/net9.0/Media_Notas.runtimeconfig.json
+/var/home/ornan/DevOps/Learning_Log/C#/Media_Notas/bin/Debug/net9.0/Media_Notas.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Media_Notas/bin/Debug/net9.0/Media_Notas.pdb
+/var/home/ornan/DevOps/Learning_Log/C#/Media_Notas/obj/Debug/net9.0/Media_Notas.GeneratedMSBuildEditorConfig.editorconfig
+/var/home/ornan/DevOps/Learning_Log/C#/Media_Notas/obj/Debug/net9.0/Media_Notas.AssemblyInfoInputs.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Media_Notas/obj/Debug/net9.0/Media_Notas.AssemblyInfo.cs
+/var/home/ornan/DevOps/Learning_Log/C#/Media_Notas/obj/Debug/net9.0/Media_Notas.csproj.CoreCompileInputs.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Media_Notas/obj/Debug/net9.0/Media_Notas.sourcelink.json
+/var/home/ornan/DevOps/Learning_Log/C#/Media_Notas/obj/Debug/net9.0/Media_Notas.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Media_Notas/obj/Debug/net9.0/refint/Media_Notas.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Media_Notas/obj/Debug/net9.0/Media_Notas.pdb
+/var/home/ornan/DevOps/Learning_Log/C#/Media_Notas/obj/Debug/net9.0/Media_Notas.genruntimeconfig.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Media_Notas/obj/Debug/net9.0/ref/Media_Notas.dll
