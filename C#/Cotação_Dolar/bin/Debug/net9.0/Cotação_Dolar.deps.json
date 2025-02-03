@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Cotação_Dolar/1.0.0": {
+        "runtime": {
+          "Cotação_Dolar.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cotação_Dolar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
