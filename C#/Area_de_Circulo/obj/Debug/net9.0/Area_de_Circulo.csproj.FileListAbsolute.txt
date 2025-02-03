@@ -1,0 +1,15 @@
+/var/home/ornan.matos/Documents/Learning_Log/C#/Area_de_Circulo/bin/Debug/net9.0/Area_de_Circulo
+/var/home/ornan.matos/Documents/Learning_Log/C#/Area_de_Circulo/bin/Debug/net9.0/Area_de_Circulo.deps.json
+/var/home/ornan.matos/Documents/Learning_Log/C#/Area_de_Circulo/bin/Debug/net9.0/Area_de_Circulo.runtimeconfig.json
+/var/home/ornan.matos/Documents/Learning_Log/C#/Area_de_Circulo/bin/Debug/net9.0/Area_de_Circulo.dll
+/var/home/ornan.matos/Documents/Learning_Log/C#/Area_de_Circulo/bin/Debug/net9.0/Area_de_Circulo.pdb
+/var/home/ornan.matos/Documents/Learning_Log/C#/Area_de_Circulo/obj/Debug/net9.0/Area_de_Circulo.GeneratedMSBuildEditorConfig.editorconfig
+/var/home/ornan.matos/Documents/Learning_Log/C#/Area_de_Circulo/obj/Debug/net9.0/Area_de_Circulo.AssemblyInfoInputs.cache
+/var/home/ornan.matos/Documents/Learning_Log/C#/Area_de_Circulo/obj/Debug/net9.0/Area_de_Circulo.AssemblyInfo.cs
+/var/home/ornan.matos/Documents/Learning_Log/C#/Area_de_Circulo/obj/Debug/net9.0/Area_de_Circulo.csproj.CoreCompileInputs.cache
+/var/home/ornan.matos/Documents/Learning_Log/C#/Area_de_Circulo/obj/Debug/net9.0/Area_de_Circulo.sourcelink.json
+/var/home/ornan.matos/Documents/Learning_Log/C#/Area_de_Circulo/obj/Debug/net9.0/Area_de_Circulo.dll
+/var/home/ornan.matos/Documents/Learning_Log/C#/Area_de_Circulo/obj/Debug/net9.0/refint/Area_de_Circulo.dll
+/var/home/ornan.matos/Documents/Learning_Log/C#/Area_de_Circulo/obj/Debug/net9.0/Area_de_Circulo.pdb
+/var/home/ornan.matos/Documents/Learning_Log/C#/Area_de_Circulo/obj/Debug/net9.0/Area_de_Circulo.genruntimeconfig.cache
+/var/home/ornan.matos/Documents/Learning_Log/C#/Area_de_Circulo/obj/Debug/net9.0/ref/Area_de_Circulo.dll
