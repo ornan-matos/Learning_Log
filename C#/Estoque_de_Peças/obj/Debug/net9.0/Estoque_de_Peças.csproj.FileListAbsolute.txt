@@ -1,0 +1,15 @@
+/var/home/ornan.matos/Documents/Learning_Log/C#/Estoque_de_Peças/bin/Debug/net9.0/Estoque_de_Peças
+/var/home/ornan.matos/Documents/Learning_Log/C#/Estoque_de_Peças/bin/Debug/net9.0/Estoque_de_Peças.deps.json
+/var/home/ornan.matos/Documents/Learning_Log/C#/Estoque_de_Peças/bin/Debug/net9.0/Estoque_de_Peças.runtimeconfig.json
+/var/home/ornan.matos/Documents/Learning_Log/C#/Estoque_de_Peças/bin/Debug/net9.0/Estoque_de_Peças.dll
+/var/home/ornan.matos/Documents/Learning_Log/C#/Estoque_de_Peças/bin/Debug/net9.0/Estoque_de_Peças.pdb
+/var/home/ornan.matos/Documents/Learning_Log/C#/Estoque_de_Peças/obj/Debug/net9.0/Estoque_de_Peças.GeneratedMSBuildEditorConfig.editorconfig
+/var/home/ornan.matos/Documents/Learning_Log/C#/Estoque_de_Peças/obj/Debug/net9.0/Estoque_de_Peças.AssemblyInfoInputs.cache
+/var/home/ornan.matos/Documents/Learning_Log/C#/Estoque_de_Peças/obj/Debug/net9.0/Estoque_de_Peças.AssemblyInfo.cs
+/var/home/ornan.matos/Documents/Learning_Log/C#/Estoque_de_Peças/obj/Debug/net9.0/Estoque_de_Peças.csproj.CoreCompileInputs.cache
+/var/home/ornan.matos/Documents/Learning_Log/C#/Estoque_de_Peças/obj/Debug/net9.0/Estoque_de_Peças.sourcelink.json
+/var/home/ornan.matos/Documents/Learning_Log/C#/Estoque_de_Peças/obj/Debug/net9.0/Estoque_de_Peças.dll
+/var/home/ornan.matos/Documents/Learning_Log/C#/Estoque_de_Peças/obj/Debug/net9.0/refint/Estoque_de_Peças.dll
+/var/home/ornan.matos/Documents/Learning_Log/C#/Estoque_de_Peças/obj/Debug/net9.0/Estoque_de_Peças.pdb
+/var/home/ornan.matos/Documents/Learning_Log/C#/Estoque_de_Peças/obj/Debug/net9.0/Estoque_de_Peças.genruntimeconfig.cache
+/var/home/ornan.matos/Documents/Learning_Log/C#/Estoque_de_Peças/obj/Debug/net9.0/ref/Estoque_de_Peças.dll

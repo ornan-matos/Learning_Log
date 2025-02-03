@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Estoque_de_Peças/1.0.0": {
+        "runtime": {
+          "Estoque_de_Peças.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Estoque_de_Peças/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
