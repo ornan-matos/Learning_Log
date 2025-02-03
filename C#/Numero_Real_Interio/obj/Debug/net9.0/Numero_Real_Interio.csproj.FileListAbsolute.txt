@@ -1,0 +1,15 @@
+/var/home/ornan.matos/Documents/Learning_Log/C#/Numero_Real_Interio/bin/Debug/net9.0/Numero_Real_Interio
+/var/home/ornan.matos/Documents/Learning_Log/C#/Numero_Real_Interio/bin/Debug/net9.0/Numero_Real_Interio.deps.json
+/var/home/ornan.matos/Documents/Learning_Log/C#/Numero_Real_Interio/bin/Debug/net9.0/Numero_Real_Interio.runtimeconfig.json
+/var/home/ornan.matos/Documents/Learning_Log/C#/Numero_Real_Interio/bin/Debug/net9.0/Numero_Real_Interio.dll
+/var/home/ornan.matos/Documents/Learning_Log/C#/Numero_Real_Interio/bin/Debug/net9.0/Numero_Real_Interio.pdb
+/var/home/ornan.matos/Documents/Learning_Log/C#/Numero_Real_Interio/obj/Debug/net9.0/Numero_Real_Interio.GeneratedMSBuildEditorConfig.editorconfig
+/var/home/ornan.matos/Documents/Learning_Log/C#/Numero_Real_Interio/obj/Debug/net9.0/Numero_Real_Interio.AssemblyInfoInputs.cache
+/var/home/ornan.matos/Documents/Learning_Log/C#/Numero_Real_Interio/obj/Debug/net9.0/Numero_Real_Interio.AssemblyInfo.cs
+/var/home/ornan.matos/Documents/Learning_Log/C#/Numero_Real_Interio/obj/Debug/net9.0/Numero_Real_Interio.csproj.CoreCompileInputs.cache
+/var/home/ornan.matos/Documents/Learning_Log/C#/Numero_Real_Interio/obj/Debug/net9.0/Numero_Real_Interio.sourcelink.json
+/var/home/ornan.matos/Documents/Learning_Log/C#/Numero_Real_Interio/obj/Debug/net9.0/Numero_Real_Interio.dll
+/var/home/ornan.matos/Documents/Learning_Log/C#/Numero_Real_Interio/obj/Debug/net9.0/refint/Numero_Real_Interio.dll
+/var/home/ornan.matos/Documents/Learning_Log/C#/Numero_Real_Interio/obj/Debug/net9.0/Numero_Real_Interio.pdb
+/var/home/ornan.matos/Documents/Learning_Log/C#/Numero_Real_Interio/obj/Debug/net9.0/Numero_Real_Interio.genruntimeconfig.cache
+/var/home/ornan.matos/Documents/Learning_Log/C#/Numero_Real_Interio/obj/Debug/net9.0/ref/Numero_Real_Interio.dll
