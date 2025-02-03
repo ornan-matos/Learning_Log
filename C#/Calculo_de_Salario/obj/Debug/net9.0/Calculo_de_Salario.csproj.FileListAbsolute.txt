@@ -1,0 +1,15 @@
+/var/home/ornan/DevOps/Learning_Log/C#/Calculo_de_Salario/bin/Debug/net9.0/Calculo_de_Salario
+/var/home/ornan/DevOps/Learning_Log/C#/Calculo_de_Salario/bin/Debug/net9.0/Calculo_de_Salario.deps.json
+/var/home/ornan/DevOps/Learning_Log/C#/Calculo_de_Salario/bin/Debug/net9.0/Calculo_de_Salario.runtimeconfig.json
+/var/home/ornan/DevOps/Learning_Log/C#/Calculo_de_Salario/bin/Debug/net9.0/Calculo_de_Salario.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Calculo_de_Salario/bin/Debug/net9.0/Calculo_de_Salario.pdb
+/var/home/ornan/DevOps/Learning_Log/C#/Calculo_de_Salario/obj/Debug/net9.0/Calculo_de_Salario.GeneratedMSBuildEditorConfig.editorconfig
+/var/home/ornan/DevOps/Learning_Log/C#/Calculo_de_Salario/obj/Debug/net9.0/Calculo_de_Salario.AssemblyInfoInputs.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Calculo_de_Salario/obj/Debug/net9.0/Calculo_de_Salario.AssemblyInfo.cs
+/var/home/ornan/DevOps/Learning_Log/C#/Calculo_de_Salario/obj/Debug/net9.0/Calculo_de_Salario.csproj.CoreCompileInputs.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Calculo_de_Salario/obj/Debug/net9.0/Calculo_de_Salario.sourcelink.json
+/var/home/ornan/DevOps/Learning_Log/C#/Calculo_de_Salario/obj/Debug/net9.0/Calculo_de_Salario.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Calculo_de_Salario/obj/Debug/net9.0/refint/Calculo_de_Salario.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Calculo_de_Salario/obj/Debug/net9.0/Calculo_de_Salario.pdb
+/var/home/ornan/DevOps/Learning_Log/C#/Calculo_de_Salario/obj/Debug/net9.0/Calculo_de_Salario.genruntimeconfig.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Calculo_de_Salario/obj/Debug/net9.0/ref/Calculo_de_Salario.dll
