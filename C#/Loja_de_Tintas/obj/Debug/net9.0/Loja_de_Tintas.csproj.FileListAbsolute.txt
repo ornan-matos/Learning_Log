@@ -1,0 +1,15 @@
+/var/home/ornan.matos/Documents/Learning_Log/C#/Loja_de_Tintas/bin/Debug/net9.0/Loja_de_Tintas
+/var/home/ornan.matos/Documents/Learning_Log/C#/Loja_de_Tintas/bin/Debug/net9.0/Loja_de_Tintas.deps.json
+/var/home/ornan.matos/Documents/Learning_Log/C#/Loja_de_Tintas/bin/Debug/net9.0/Loja_de_Tintas.runtimeconfig.json
+/var/home/ornan.matos/Documents/Learning_Log/C#/Loja_de_Tintas/bin/Debug/net9.0/Loja_de_Tintas.dll
+/var/home/ornan.matos/Documents/Learning_Log/C#/Loja_de_Tintas/bin/Debug/net9.0/Loja_de_Tintas.pdb
+/var/home/ornan.matos/Documents/Learning_Log/C#/Loja_de_Tintas/obj/Debug/net9.0/Loja_de_Tintas.GeneratedMSBuildEditorConfig.editorconfig
+/var/home/ornan.matos/Documents/Learning_Log/C#/Loja_de_Tintas/obj/Debug/net9.0/Loja_de_Tintas.AssemblyInfoInputs.cache
+/var/home/ornan.matos/Documents/Learning_Log/C#/Loja_de_Tintas/obj/Debug/net9.0/Loja_de_Tintas.AssemblyInfo.cs
+/var/home/ornan.matos/Documents/Learning_Log/C#/Loja_de_Tintas/obj/Debug/net9.0/Loja_de_Tintas.csproj.CoreCompileInputs.cache
+/var/home/ornan.matos/Documents/Learning_Log/C#/Loja_de_Tintas/obj/Debug/net9.0/Loja_de_Tintas.sourcelink.json
+/var/home/ornan.matos/Documents/Learning_Log/C#/Loja_de_Tintas/obj/Debug/net9.0/Loja_de_Tintas.dll
+/var/home/ornan.matos/Documents/Learning_Log/C#/Loja_de_Tintas/obj/Debug/net9.0/refint/Loja_de_Tintas.dll
+/var/home/ornan.matos/Documents/Learning_Log/C#/Loja_de_Tintas/obj/Debug/net9.0/Loja_de_Tintas.pdb
+/var/home/ornan.matos/Documents/Learning_Log/C#/Loja_de_Tintas/obj/Debug/net9.0/Loja_de_Tintas.genruntimeconfig.cache
+/var/home/ornan.matos/Documents/Learning_Log/C#/Loja_de_Tintas/obj/Debug/net9.0/ref/Loja_de_Tintas.dll
