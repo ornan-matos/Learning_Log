@@ -1,0 +1,15 @@
+/var/home/ornan/DevOps/Learning_Log/C#/Peso_Ideal/bin/Debug/net9.0/Peso_Ideal
+/var/home/ornan/DevOps/Learning_Log/C#/Peso_Ideal/bin/Debug/net9.0/Peso_Ideal.deps.json
+/var/home/ornan/DevOps/Learning_Log/C#/Peso_Ideal/bin/Debug/net9.0/Peso_Ideal.runtimeconfig.json
+/var/home/ornan/DevOps/Learning_Log/C#/Peso_Ideal/bin/Debug/net9.0/Peso_Ideal.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Peso_Ideal/bin/Debug/net9.0/Peso_Ideal.pdb
+/var/home/ornan/DevOps/Learning_Log/C#/Peso_Ideal/obj/Debug/net9.0/Peso_Ideal.GeneratedMSBuildEditorConfig.editorconfig
+/var/home/ornan/DevOps/Learning_Log/C#/Peso_Ideal/obj/Debug/net9.0/Peso_Ideal.AssemblyInfoInputs.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Peso_Ideal/obj/Debug/net9.0/Peso_Ideal.AssemblyInfo.cs
+/var/home/ornan/DevOps/Learning_Log/C#/Peso_Ideal/obj/Debug/net9.0/Peso_Ideal.csproj.CoreCompileInputs.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Peso_Ideal/obj/Debug/net9.0/Peso_Ideal.sourcelink.json
+/var/home/ornan/DevOps/Learning_Log/C#/Peso_Ideal/obj/Debug/net9.0/Peso_Ideal.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Peso_Ideal/obj/Debug/net9.0/refint/Peso_Ideal.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Peso_Ideal/obj/Debug/net9.0/Peso_Ideal.pdb
+/var/home/ornan/DevOps/Learning_Log/C#/Peso_Ideal/obj/Debug/net9.0/Peso_Ideal.genruntimeconfig.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Peso_Ideal/obj/Debug/net9.0/ref/Peso_Ideal.dll
