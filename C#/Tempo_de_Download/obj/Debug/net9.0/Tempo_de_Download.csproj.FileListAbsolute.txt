@@ -1,0 +1,15 @@
+/var/home/ornan.matos/Documents/Learning_Log/C#/Tempo_de_Download/bin/Debug/net9.0/Tempo_de_Download
+/var/home/ornan.matos/Documents/Learning_Log/C#/Tempo_de_Download/bin/Debug/net9.0/Tempo_de_Download.deps.json
+/var/home/ornan.matos/Documents/Learning_Log/C#/Tempo_de_Download/bin/Debug/net9.0/Tempo_de_Download.runtimeconfig.json
+/var/home/ornan.matos/Documents/Learning_Log/C#/Tempo_de_Download/bin/Debug/net9.0/Tempo_de_Download.dll
+/var/home/ornan.matos/Documents/Learning_Log/C#/Tempo_de_Download/bin/Debug/net9.0/Tempo_de_Download.pdb
+/var/home/ornan.matos/Documents/Learning_Log/C#/Tempo_de_Download/obj/Debug/net9.0/Tempo_de_Download.GeneratedMSBuildEditorConfig.editorconfig
+/var/home/ornan.matos/Documents/Learning_Log/C#/Tempo_de_Download/obj/Debug/net9.0/Tempo_de_Download.AssemblyInfoInputs.cache
+/var/home/ornan.matos/Documents/Learning_Log/C#/Tempo_de_Download/obj/Debug/net9.0/Tempo_de_Download.AssemblyInfo.cs
+/var/home/ornan.matos/Documents/Learning_Log/C#/Tempo_de_Download/obj/Debug/net9.0/Tempo_de_Download.csproj.CoreCompileInputs.cache
+/var/home/ornan.matos/Documents/Learning_Log/C#/Tempo_de_Download/obj/Debug/net9.0/Tempo_de_Download.sourcelink.json
+/var/home/ornan.matos/Documents/Learning_Log/C#/Tempo_de_Download/obj/Debug/net9.0/Tempo_de_Download.dll
+/var/home/ornan.matos/Documents/Learning_Log/C#/Tempo_de_Download/obj/Debug/net9.0/refint/Tempo_de_Download.dll
+/var/home/ornan.matos/Documents/Learning_Log/C#/Tempo_de_Download/obj/Debug/net9.0/Tempo_de_Download.pdb
+/var/home/ornan.matos/Documents/Learning_Log/C#/Tempo_de_Download/obj/Debug/net9.0/Tempo_de_Download.genruntimeconfig.cache
+/var/home/ornan.matos/Documents/Learning_Log/C#/Tempo_de_Download/obj/Debug/net9.0/ref/Tempo_de_Download.dll
