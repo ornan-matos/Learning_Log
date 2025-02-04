@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Cotação_Dolar")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4a1e1621dfc4480bd232d11e73d8879b72767fc0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+054c81d399b8077fe8ab78f8e04ade30150def40")]
 [assembly: System.Reflection.AssemblyProductAttribute("Cotação_Dolar")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Cotação_Dolar")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

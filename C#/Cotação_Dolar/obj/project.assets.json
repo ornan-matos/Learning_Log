@@ -8,19 +8,19 @@
     "net9.0": []
   },
   "packageFolders": {
-    "/var/home/ornan.matos/.nuget/packages/": {}
+    "/home/ornan/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/var/home/ornan.matos/Documents/Learning_Log/C#/Cotação_Dolar/Cotação_Dolar.csproj",
+      "projectUniqueName": "/var/home/ornan/DevOps/Learning_Log/C#/Cotação_Dolar/Cotação_Dolar.csproj",
       "projectName": "Cotação_Dolar",
-      "projectPath": "/var/home/ornan.matos/Documents/Learning_Log/C#/Cotação_Dolar/Cotação_Dolar.csproj",
-      "packagesPath": "/var/home/ornan.matos/.nuget/packages/",
-      "outputPath": "/var/home/ornan.matos/Documents/Learning_Log/C#/Cotação_Dolar/obj/",
+      "projectPath": "/var/home/ornan/DevOps/Learning_Log/C#/Cotação_Dolar/Cotação_Dolar.csproj",
+      "packagesPath": "/home/ornan/.nuget/packages/",
+      "outputPath": "/var/home/ornan/DevOps/Learning_Log/C#/Cotação_Dolar/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/var/home/ornan.matos/.nuget/NuGet/NuGet.Config"
+        "/home/ornan/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"

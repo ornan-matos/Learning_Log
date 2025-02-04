@@ -4,14 +4,14 @@ class cota{
   static void Main(){
     Console.WriteLine("\nConversor U$ -> R$\n");
 
-    Console.Write("\nCotação Dolar: U$ ");
-    float cotacao = Convert.ToSingle(Console.Read());
+    Console.WriteLine("\nCotação Dolar: R$ ");
+    float cotacao = Convert.ToSingle(Console.ReadLine());
 
-    Console.Write("\nValor para Converter: U$ ");
-    float valor = Convert.ToSingle(Console.Read());
+    Console.WriteLine("\nValor para Converter: U$ ");
+    float valor = Convert.ToSingle(Console.ReadLine());
 
     float dolar = cotacao * valor;
 
-    Console.WriteLine()
+    Console.WriteLine(String.Format("\nCotação R$ {0:F2} \nValor U$ {1:F2}\nU$ {2:F2}", cotacao, valor, dolar));
   }
 }
