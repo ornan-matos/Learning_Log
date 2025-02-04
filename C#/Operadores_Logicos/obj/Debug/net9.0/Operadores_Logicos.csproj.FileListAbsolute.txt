@@ -1,0 +1,15 @@
+/var/home/ornan/DevOps/Learning_Log/C#/Operadores_Logicos/obj/Debug/net9.0/Operadores_Logicos.GeneratedMSBuildEditorConfig.editorconfig
+/var/home/ornan/DevOps/Learning_Log/C#/Operadores_Logicos/obj/Debug/net9.0/Operadores_Logicos.AssemblyInfoInputs.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Operadores_Logicos/obj/Debug/net9.0/Operadores_Logicos.AssemblyInfo.cs
+/var/home/ornan/DevOps/Learning_Log/C#/Operadores_Logicos/obj/Debug/net9.0/Operadores_Logicos.csproj.CoreCompileInputs.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Operadores_Logicos/obj/Debug/net9.0/Operadores_Logicos.sourcelink.json
+/var/home/ornan/DevOps/Learning_Log/C#/Operadores_Logicos/bin/Debug/net9.0/Operadores_Logicos
+/var/home/ornan/DevOps/Learning_Log/C#/Operadores_Logicos/bin/Debug/net9.0/Operadores_Logicos.deps.json
+/var/home/ornan/DevOps/Learning_Log/C#/Operadores_Logicos/bin/Debug/net9.0/Operadores_Logicos.runtimeconfig.json
+/var/home/ornan/DevOps/Learning_Log/C#/Operadores_Logicos/bin/Debug/net9.0/Operadores_Logicos.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Operadores_Logicos/bin/Debug/net9.0/Operadores_Logicos.pdb
+/var/home/ornan/DevOps/Learning_Log/C#/Operadores_Logicos/obj/Debug/net9.0/Operadores_Logicos.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Operadores_Logicos/obj/Debug/net9.0/refint/Operadores_Logicos.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Operadores_Logicos/obj/Debug/net9.0/Operadores_Logicos.pdb
+/var/home/ornan/DevOps/Learning_Log/C#/Operadores_Logicos/obj/Debug/net9.0/Operadores_Logicos.genruntimeconfig.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Operadores_Logicos/obj/Debug/net9.0/ref/Operadores_Logicos.dll
