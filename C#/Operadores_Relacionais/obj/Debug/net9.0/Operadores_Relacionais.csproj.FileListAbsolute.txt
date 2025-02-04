@@ -1,0 +1,15 @@
+/var/home/ornan/DevOps/Learning_Log/C#/Operadores_Relacionais/bin/Debug/net9.0/Operadores_Relacionais
+/var/home/ornan/DevOps/Learning_Log/C#/Operadores_Relacionais/bin/Debug/net9.0/Operadores_Relacionais.deps.json
+/var/home/ornan/DevOps/Learning_Log/C#/Operadores_Relacionais/bin/Debug/net9.0/Operadores_Relacionais.runtimeconfig.json
+/var/home/ornan/DevOps/Learning_Log/C#/Operadores_Relacionais/bin/Debug/net9.0/Operadores_Relacionais.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Operadores_Relacionais/bin/Debug/net9.0/Operadores_Relacionais.pdb
+/var/home/ornan/DevOps/Learning_Log/C#/Operadores_Relacionais/obj/Debug/net9.0/Operadores_Relacionais.GeneratedMSBuildEditorConfig.editorconfig
+/var/home/ornan/DevOps/Learning_Log/C#/Operadores_Relacionais/obj/Debug/net9.0/Operadores_Relacionais.AssemblyInfoInputs.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Operadores_Relacionais/obj/Debug/net9.0/Operadores_Relacionais.AssemblyInfo.cs
+/var/home/ornan/DevOps/Learning_Log/C#/Operadores_Relacionais/obj/Debug/net9.0/Operadores_Relacionais.csproj.CoreCompileInputs.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Operadores_Relacionais/obj/Debug/net9.0/Operadores_Relacionais.sourcelink.json
+/var/home/ornan/DevOps/Learning_Log/C#/Operadores_Relacionais/obj/Debug/net9.0/Operadores_Relacionais.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Operadores_Relacionais/obj/Debug/net9.0/refint/Operadores_Relacionais.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Operadores_Relacionais/obj/Debug/net9.0/Operadores_Relacionais.pdb
+/var/home/ornan/DevOps/Learning_Log/C#/Operadores_Relacionais/obj/Debug/net9.0/Operadores_Relacionais.genruntimeconfig.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Operadores_Relacionais/obj/Debug/net9.0/ref/Operadores_Relacionais.dll
