@@ -1,0 +1,15 @@
+/var/home/ornan/DevOps/Learning_Log/C#/Calculo_de_Comissão/bin/Debug/net9.0/Calculo_de_Comissão
+/var/home/ornan/DevOps/Learning_Log/C#/Calculo_de_Comissão/bin/Debug/net9.0/Calculo_de_Comissão.deps.json
+/var/home/ornan/DevOps/Learning_Log/C#/Calculo_de_Comissão/bin/Debug/net9.0/Calculo_de_Comissão.runtimeconfig.json
+/var/home/ornan/DevOps/Learning_Log/C#/Calculo_de_Comissão/bin/Debug/net9.0/Calculo_de_Comissão.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Calculo_de_Comissão/bin/Debug/net9.0/Calculo_de_Comissão.pdb
+/var/home/ornan/DevOps/Learning_Log/C#/Calculo_de_Comissão/obj/Debug/net9.0/Calculo_de_Comissão.GeneratedMSBuildEditorConfig.editorconfig
+/var/home/ornan/DevOps/Learning_Log/C#/Calculo_de_Comissão/obj/Debug/net9.0/Calculo_de_Comissão.AssemblyInfoInputs.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Calculo_de_Comissão/obj/Debug/net9.0/Calculo_de_Comissão.AssemblyInfo.cs
+/var/home/ornan/DevOps/Learning_Log/C#/Calculo_de_Comissão/obj/Debug/net9.0/Calculo_de_Comissão.csproj.CoreCompileInputs.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Calculo_de_Comissão/obj/Debug/net9.0/Calculo_de_Comissão.sourcelink.json
+/var/home/ornan/DevOps/Learning_Log/C#/Calculo_de_Comissão/obj/Debug/net9.0/Calculo_de_Comissão.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Calculo_de_Comissão/obj/Debug/net9.0/refint/Calculo_de_Comissão.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Calculo_de_Comissão/obj/Debug/net9.0/Calculo_de_Comissão.pdb
+/var/home/ornan/DevOps/Learning_Log/C#/Calculo_de_Comissão/obj/Debug/net9.0/Calculo_de_Comissão.genruntimeconfig.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Calculo_de_Comissão/obj/Debug/net9.0/ref/Calculo_de_Comissão.dll
