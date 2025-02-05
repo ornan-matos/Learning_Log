@@ -1,0 +1,15 @@
+/var/home/ornan/DevOps/Learning_Log/C#/Estrutura_Condicional_Multipla/bin/Debug/net9.0/Estrutura_Condicional_Multipla
+/var/home/ornan/DevOps/Learning_Log/C#/Estrutura_Condicional_Multipla/bin/Debug/net9.0/Estrutura_Condicional_Multipla.deps.json
+/var/home/ornan/DevOps/Learning_Log/C#/Estrutura_Condicional_Multipla/bin/Debug/net9.0/Estrutura_Condicional_Multipla.runtimeconfig.json
+/var/home/ornan/DevOps/Learning_Log/C#/Estrutura_Condicional_Multipla/bin/Debug/net9.0/Estrutura_Condicional_Multipla.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Estrutura_Condicional_Multipla/bin/Debug/net9.0/Estrutura_Condicional_Multipla.pdb
+/var/home/ornan/DevOps/Learning_Log/C#/Estrutura_Condicional_Multipla/obj/Debug/net9.0/Estrutura_Condicional_Multipla.GeneratedMSBuildEditorConfig.editorconfig
+/var/home/ornan/DevOps/Learning_Log/C#/Estrutura_Condicional_Multipla/obj/Debug/net9.0/Estrutura_Condicional_Multipla.AssemblyInfoInputs.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Estrutura_Condicional_Multipla/obj/Debug/net9.0/Estrutura_Condicional_Multipla.AssemblyInfo.cs
+/var/home/ornan/DevOps/Learning_Log/C#/Estrutura_Condicional_Multipla/obj/Debug/net9.0/Estrutura_Condicional_Multipla.csproj.CoreCompileInputs.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Estrutura_Condicional_Multipla/obj/Debug/net9.0/Estrutura_Condicional_Multipla.sourcelink.json
+/var/home/ornan/DevOps/Learning_Log/C#/Estrutura_Condicional_Multipla/obj/Debug/net9.0/Estrutura_Condicional_Multipla.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Estrutura_Condicional_Multipla/obj/Debug/net9.0/refint/Estrutura_Condicional_Multipla.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Estrutura_Condicional_Multipla/obj/Debug/net9.0/Estrutura_Condicional_Multipla.pdb
+/var/home/ornan/DevOps/Learning_Log/C#/Estrutura_Condicional_Multipla/obj/Debug/net9.0/Estrutura_Condicional_Multipla.genruntimeconfig.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Estrutura_Condicional_Multipla/obj/Debug/net9.0/ref/Estrutura_Condicional_Multipla.dll
