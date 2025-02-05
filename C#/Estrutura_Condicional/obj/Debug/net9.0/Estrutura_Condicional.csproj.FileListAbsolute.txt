@@ -1,0 +1,15 @@
+/var/home/ornan/DevOps/Learning_Log/C#/Estrutura_Condicional/bin/Debug/net9.0/Estrutura_Condicional
+/var/home/ornan/DevOps/Learning_Log/C#/Estrutura_Condicional/bin/Debug/net9.0/Estrutura_Condicional.deps.json
+/var/home/ornan/DevOps/Learning_Log/C#/Estrutura_Condicional/bin/Debug/net9.0/Estrutura_Condicional.runtimeconfig.json
+/var/home/ornan/DevOps/Learning_Log/C#/Estrutura_Condicional/bin/Debug/net9.0/Estrutura_Condicional.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Estrutura_Condicional/bin/Debug/net9.0/Estrutura_Condicional.pdb
+/var/home/ornan/DevOps/Learning_Log/C#/Estrutura_Condicional/obj/Debug/net9.0/Estrutura_Condicional.GeneratedMSBuildEditorConfig.editorconfig
+/var/home/ornan/DevOps/Learning_Log/C#/Estrutura_Condicional/obj/Debug/net9.0/Estrutura_Condicional.AssemblyInfoInputs.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Estrutura_Condicional/obj/Debug/net9.0/Estrutura_Condicional.AssemblyInfo.cs
+/var/home/ornan/DevOps/Learning_Log/C#/Estrutura_Condicional/obj/Debug/net9.0/Estrutura_Condicional.csproj.CoreCompileInputs.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Estrutura_Condicional/obj/Debug/net9.0/Estrutura_Condicional.sourcelink.json
+/var/home/ornan/DevOps/Learning_Log/C#/Estrutura_Condicional/obj/Debug/net9.0/Estrutura_Condicional.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Estrutura_Condicional/obj/Debug/net9.0/refint/Estrutura_Condicional.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Estrutura_Condicional/obj/Debug/net9.0/Estrutura_Condicional.pdb
+/var/home/ornan/DevOps/Learning_Log/C#/Estrutura_Condicional/obj/Debug/net9.0/Estrutura_Condicional.genruntimeconfig.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Estrutura_Condicional/obj/Debug/net9.0/ref/Estrutura_Condicional.dll
