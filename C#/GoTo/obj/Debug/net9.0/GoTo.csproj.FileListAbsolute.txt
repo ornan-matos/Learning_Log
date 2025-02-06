@@ -1,0 +1,15 @@
+/var/home/ornan/DevOps/Learning_Log/C#/GoTo/bin/Debug/net9.0/GoTo
+/var/home/ornan/DevOps/Learning_Log/C#/GoTo/bin/Debug/net9.0/GoTo.deps.json
+/var/home/ornan/DevOps/Learning_Log/C#/GoTo/bin/Debug/net9.0/GoTo.runtimeconfig.json
+/var/home/ornan/DevOps/Learning_Log/C#/GoTo/bin/Debug/net9.0/GoTo.dll
+/var/home/ornan/DevOps/Learning_Log/C#/GoTo/bin/Debug/net9.0/GoTo.pdb
+/var/home/ornan/DevOps/Learning_Log/C#/GoTo/obj/Debug/net9.0/GoTo.GeneratedMSBuildEditorConfig.editorconfig
+/var/home/ornan/DevOps/Learning_Log/C#/GoTo/obj/Debug/net9.0/GoTo.AssemblyInfoInputs.cache
+/var/home/ornan/DevOps/Learning_Log/C#/GoTo/obj/Debug/net9.0/GoTo.AssemblyInfo.cs
+/var/home/ornan/DevOps/Learning_Log/C#/GoTo/obj/Debug/net9.0/GoTo.csproj.CoreCompileInputs.cache
+/var/home/ornan/DevOps/Learning_Log/C#/GoTo/obj/Debug/net9.0/GoTo.sourcelink.json
+/var/home/ornan/DevOps/Learning_Log/C#/GoTo/obj/Debug/net9.0/GoTo.dll
+/var/home/ornan/DevOps/Learning_Log/C#/GoTo/obj/Debug/net9.0/refint/GoTo.dll
+/var/home/ornan/DevOps/Learning_Log/C#/GoTo/obj/Debug/net9.0/GoTo.pdb
+/var/home/ornan/DevOps/Learning_Log/C#/GoTo/obj/Debug/net9.0/GoTo.genruntimeconfig.cache
+/var/home/ornan/DevOps/Learning_Log/C#/GoTo/obj/Debug/net9.0/ref/GoTo.dll
