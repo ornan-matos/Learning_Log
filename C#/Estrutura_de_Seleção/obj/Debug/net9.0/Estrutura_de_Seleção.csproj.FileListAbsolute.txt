@@ -1,0 +1,15 @@
+/var/home/ornan/DevOps/Learning_Log/C#/Estrutura_de_Seleção/bin/Debug/net9.0/Estrutura_de_Seleção
+/var/home/ornan/DevOps/Learning_Log/C#/Estrutura_de_Seleção/bin/Debug/net9.0/Estrutura_de_Seleção.deps.json
+/var/home/ornan/DevOps/Learning_Log/C#/Estrutura_de_Seleção/bin/Debug/net9.0/Estrutura_de_Seleção.runtimeconfig.json
+/var/home/ornan/DevOps/Learning_Log/C#/Estrutura_de_Seleção/bin/Debug/net9.0/Estrutura_de_Seleção.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Estrutura_de_Seleção/bin/Debug/net9.0/Estrutura_de_Seleção.pdb
+/var/home/ornan/DevOps/Learning_Log/C#/Estrutura_de_Seleção/obj/Debug/net9.0/Estrutura_de_Seleção.GeneratedMSBuildEditorConfig.editorconfig
+/var/home/ornan/DevOps/Learning_Log/C#/Estrutura_de_Seleção/obj/Debug/net9.0/Estrutura_de_Seleção.AssemblyInfoInputs.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Estrutura_de_Seleção/obj/Debug/net9.0/Estrutura_de_Seleção.AssemblyInfo.cs
+/var/home/ornan/DevOps/Learning_Log/C#/Estrutura_de_Seleção/obj/Debug/net9.0/Estrutura_de_Seleção.csproj.CoreCompileInputs.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Estrutura_de_Seleção/obj/Debug/net9.0/Estrutura_de_Seleção.sourcelink.json
+/var/home/ornan/DevOps/Learning_Log/C#/Estrutura_de_Seleção/obj/Debug/net9.0/Estrutura_de_Seleção.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Estrutura_de_Seleção/obj/Debug/net9.0/refint/Estrutura_de_Seleção.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Estrutura_de_Seleção/obj/Debug/net9.0/Estrutura_de_Seleção.pdb
+/var/home/ornan/DevOps/Learning_Log/C#/Estrutura_de_Seleção/obj/Debug/net9.0/Estrutura_de_Seleção.genruntimeconfig.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Estrutura_de_Seleção/obj/Debug/net9.0/ref/Estrutura_de_Seleção.dll
