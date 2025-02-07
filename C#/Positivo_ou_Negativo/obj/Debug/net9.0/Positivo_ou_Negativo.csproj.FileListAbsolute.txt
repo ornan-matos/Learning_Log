@@ -1,0 +1,15 @@
+/var/home/ornan/DevOps/Learning_Log/C#/Positivo_ou_Negativo/bin/Debug/net9.0/Positivo_ou_Negativo
+/var/home/ornan/DevOps/Learning_Log/C#/Positivo_ou_Negativo/bin/Debug/net9.0/Positivo_ou_Negativo.deps.json
+/var/home/ornan/DevOps/Learning_Log/C#/Positivo_ou_Negativo/bin/Debug/net9.0/Positivo_ou_Negativo.runtimeconfig.json
+/var/home/ornan/DevOps/Learning_Log/C#/Positivo_ou_Negativo/bin/Debug/net9.0/Positivo_ou_Negativo.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Positivo_ou_Negativo/bin/Debug/net9.0/Positivo_ou_Negativo.pdb
+/var/home/ornan/DevOps/Learning_Log/C#/Positivo_ou_Negativo/obj/Debug/net9.0/Positivo_ou_Negativo.GeneratedMSBuildEditorConfig.editorconfig
+/var/home/ornan/DevOps/Learning_Log/C#/Positivo_ou_Negativo/obj/Debug/net9.0/Positivo_ou_Negativo.AssemblyInfoInputs.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Positivo_ou_Negativo/obj/Debug/net9.0/Positivo_ou_Negativo.AssemblyInfo.cs
+/var/home/ornan/DevOps/Learning_Log/C#/Positivo_ou_Negativo/obj/Debug/net9.0/Positivo_ou_Negativo.csproj.CoreCompileInputs.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Positivo_ou_Negativo/obj/Debug/net9.0/Positivo_ou_Negativo.sourcelink.json
+/var/home/ornan/DevOps/Learning_Log/C#/Positivo_ou_Negativo/obj/Debug/net9.0/Positivo_ou_Negativo.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Positivo_ou_Negativo/obj/Debug/net9.0/refint/Positivo_ou_Negativo.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Positivo_ou_Negativo/obj/Debug/net9.0/Positivo_ou_Negativo.pdb
+/var/home/ornan/DevOps/Learning_Log/C#/Positivo_ou_Negativo/obj/Debug/net9.0/Positivo_ou_Negativo.genruntimeconfig.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Positivo_ou_Negativo/obj/Debug/net9.0/ref/Positivo_ou_Negativo.dll
