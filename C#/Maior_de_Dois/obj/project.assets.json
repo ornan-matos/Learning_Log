@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/var/home/ornan/DevOps/Learning_Log/C#/Formatação_de_Saída/Format/Format.csproj",
-      "projectName": "Format",
-      "projectPath": "/var/home/ornan/DevOps/Learning_Log/C#/Formatação_de_Saída/Format/Format.csproj",
+      "projectUniqueName": "/var/home/ornan/DevOps/Learning_Log/C#/Maior_de_Dois/Maior_de_Dois.csproj",
+      "projectName": "Maior_de_Dois",
+      "projectPath": "/var/home/ornan/DevOps/Learning_Log/C#/Maior_de_Dois/Maior_de_Dois.csproj",
       "packagesPath": "/home/ornan/.nuget/packages/",
-      "outputPath": "/var/home/ornan/DevOps/Learning_Log/C#/Formatação_de_Saída/Format/obj/",
+      "outputPath": "/var/home/ornan/DevOps/Learning_Log/C#/Maior_de_Dois/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/ornan/.nuget/NuGet/NuGet.Config"

@@ -1,0 +1,15 @@
+/var/home/ornan/DevOps/Learning_Log/C#/Maior_de_Dois/bin/Debug/net9.0/Maior_de_Dois
+/var/home/ornan/DevOps/Learning_Log/C#/Maior_de_Dois/bin/Debug/net9.0/Maior_de_Dois.deps.json
+/var/home/ornan/DevOps/Learning_Log/C#/Maior_de_Dois/bin/Debug/net9.0/Maior_de_Dois.runtimeconfig.json
+/var/home/ornan/DevOps/Learning_Log/C#/Maior_de_Dois/bin/Debug/net9.0/Maior_de_Dois.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Maior_de_Dois/bin/Debug/net9.0/Maior_de_Dois.pdb
+/var/home/ornan/DevOps/Learning_Log/C#/Maior_de_Dois/obj/Debug/net9.0/Maior_de_Dois.GeneratedMSBuildEditorConfig.editorconfig
+/var/home/ornan/DevOps/Learning_Log/C#/Maior_de_Dois/obj/Debug/net9.0/Maior_de_Dois.AssemblyInfoInputs.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Maior_de_Dois/obj/Debug/net9.0/Maior_de_Dois.AssemblyInfo.cs
+/var/home/ornan/DevOps/Learning_Log/C#/Maior_de_Dois/obj/Debug/net9.0/Maior_de_Dois.csproj.CoreCompileInputs.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Maior_de_Dois/obj/Debug/net9.0/Maior_de_Dois.sourcelink.json
+/var/home/ornan/DevOps/Learning_Log/C#/Maior_de_Dois/obj/Debug/net9.0/Maior_de_Dois.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Maior_de_Dois/obj/Debug/net9.0/refint/Maior_de_Dois.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Maior_de_Dois/obj/Debug/net9.0/Maior_de_Dois.pdb
+/var/home/ornan/DevOps/Learning_Log/C#/Maior_de_Dois/obj/Debug/net9.0/Maior_de_Dois.genruntimeconfig.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Maior_de_Dois/obj/Debug/net9.0/ref/Maior_de_Dois.dll
