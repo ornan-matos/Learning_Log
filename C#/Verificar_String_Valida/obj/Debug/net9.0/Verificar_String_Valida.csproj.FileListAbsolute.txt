@@ -1,0 +1,15 @@
+/var/home/ornan/DevOps/Learning_Log/C#/Verificar_String_Valida/bin/Debug/net9.0/Verificar_String_Valida
+/var/home/ornan/DevOps/Learning_Log/C#/Verificar_String_Valida/bin/Debug/net9.0/Verificar_String_Valida.deps.json
+/var/home/ornan/DevOps/Learning_Log/C#/Verificar_String_Valida/bin/Debug/net9.0/Verificar_String_Valida.runtimeconfig.json
+/var/home/ornan/DevOps/Learning_Log/C#/Verificar_String_Valida/bin/Debug/net9.0/Verificar_String_Valida.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Verificar_String_Valida/bin/Debug/net9.0/Verificar_String_Valida.pdb
+/var/home/ornan/DevOps/Learning_Log/C#/Verificar_String_Valida/obj/Debug/net9.0/Verificar_String_Valida.GeneratedMSBuildEditorConfig.editorconfig
+/var/home/ornan/DevOps/Learning_Log/C#/Verificar_String_Valida/obj/Debug/net9.0/Verificar_String_Valida.AssemblyInfoInputs.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Verificar_String_Valida/obj/Debug/net9.0/Verificar_String_Valida.AssemblyInfo.cs
+/var/home/ornan/DevOps/Learning_Log/C#/Verificar_String_Valida/obj/Debug/net9.0/Verificar_String_Valida.csproj.CoreCompileInputs.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Verificar_String_Valida/obj/Debug/net9.0/Verificar_String_Valida.sourcelink.json
+/var/home/ornan/DevOps/Learning_Log/C#/Verificar_String_Valida/obj/Debug/net9.0/Verificar_String_Valida.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Verificar_String_Valida/obj/Debug/net9.0/refint/Verificar_String_Valida.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Verificar_String_Valida/obj/Debug/net9.0/Verificar_String_Valida.pdb
+/var/home/ornan/DevOps/Learning_Log/C#/Verificar_String_Valida/obj/Debug/net9.0/Verificar_String_Valida.genruntimeconfig.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Verificar_String_Valida/obj/Debug/net9.0/ref/Verificar_String_Valida.dll
