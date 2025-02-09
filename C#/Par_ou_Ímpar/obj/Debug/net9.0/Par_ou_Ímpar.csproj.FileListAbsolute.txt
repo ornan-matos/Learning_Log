@@ -1,0 +1,15 @@
+/var/home/ornan/DevOps/Learning_Log/C#/Par_ou_Ímpar/bin/Debug/net9.0/Par_ou_Ímpar
+/var/home/ornan/DevOps/Learning_Log/C#/Par_ou_Ímpar/bin/Debug/net9.0/Par_ou_Ímpar.deps.json
+/var/home/ornan/DevOps/Learning_Log/C#/Par_ou_Ímpar/bin/Debug/net9.0/Par_ou_Ímpar.runtimeconfig.json
+/var/home/ornan/DevOps/Learning_Log/C#/Par_ou_Ímpar/bin/Debug/net9.0/Par_ou_Ímpar.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Par_ou_Ímpar/bin/Debug/net9.0/Par_ou_Ímpar.pdb
+/var/home/ornan/DevOps/Learning_Log/C#/Par_ou_Ímpar/obj/Debug/net9.0/Par_ou_Ímpar.GeneratedMSBuildEditorConfig.editorconfig
+/var/home/ornan/DevOps/Learning_Log/C#/Par_ou_Ímpar/obj/Debug/net9.0/Par_ou_Ímpar.AssemblyInfoInputs.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Par_ou_Ímpar/obj/Debug/net9.0/Par_ou_Ímpar.AssemblyInfo.cs
+/var/home/ornan/DevOps/Learning_Log/C#/Par_ou_Ímpar/obj/Debug/net9.0/Par_ou_Ímpar.csproj.CoreCompileInputs.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Par_ou_Ímpar/obj/Debug/net9.0/Par_ou_Ímpar.sourcelink.json
+/var/home/ornan/DevOps/Learning_Log/C#/Par_ou_Ímpar/obj/Debug/net9.0/Par_ou_Ímpar.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Par_ou_Ímpar/obj/Debug/net9.0/refint/Par_ou_Ímpar.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Par_ou_Ímpar/obj/Debug/net9.0/Par_ou_Ímpar.pdb
+/var/home/ornan/DevOps/Learning_Log/C#/Par_ou_Ímpar/obj/Debug/net9.0/Par_ou_Ímpar.genruntimeconfig.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Par_ou_Ímpar/obj/Debug/net9.0/ref/Par_ou_Ímpar.dll
