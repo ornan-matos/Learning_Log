@@ -1,0 +1,15 @@
+/var/home/ornan/DevOps/Learning_Log/C#/While/bin/Debug/net9.0/While
+/var/home/ornan/DevOps/Learning_Log/C#/While/bin/Debug/net9.0/While.deps.json
+/var/home/ornan/DevOps/Learning_Log/C#/While/bin/Debug/net9.0/While.runtimeconfig.json
+/var/home/ornan/DevOps/Learning_Log/C#/While/bin/Debug/net9.0/While.dll
+/var/home/ornan/DevOps/Learning_Log/C#/While/bin/Debug/net9.0/While.pdb
+/var/home/ornan/DevOps/Learning_Log/C#/While/obj/Debug/net9.0/While.GeneratedMSBuildEditorConfig.editorconfig
+/var/home/ornan/DevOps/Learning_Log/C#/While/obj/Debug/net9.0/While.AssemblyInfoInputs.cache
+/var/home/ornan/DevOps/Learning_Log/C#/While/obj/Debug/net9.0/While.AssemblyInfo.cs
+/var/home/ornan/DevOps/Learning_Log/C#/While/obj/Debug/net9.0/While.csproj.CoreCompileInputs.cache
+/var/home/ornan/DevOps/Learning_Log/C#/While/obj/Debug/net9.0/While.sourcelink.json
+/var/home/ornan/DevOps/Learning_Log/C#/While/obj/Debug/net9.0/While.dll
+/var/home/ornan/DevOps/Learning_Log/C#/While/obj/Debug/net9.0/refint/While.dll
+/var/home/ornan/DevOps/Learning_Log/C#/While/obj/Debug/net9.0/While.pdb
+/var/home/ornan/DevOps/Learning_Log/C#/While/obj/Debug/net9.0/While.genruntimeconfig.cache
+/var/home/ornan/DevOps/Learning_Log/C#/While/obj/Debug/net9.0/ref/While.dll
