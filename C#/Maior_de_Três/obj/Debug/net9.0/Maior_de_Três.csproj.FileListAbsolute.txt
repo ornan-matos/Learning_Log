@@ -1,0 +1,15 @@
+/var/home/ornan/DevOps/Learning_Log/C#/Maior_de_Três/bin/Debug/net9.0/Maior_de_Três
+/var/home/ornan/DevOps/Learning_Log/C#/Maior_de_Três/bin/Debug/net9.0/Maior_de_Três.deps.json
+/var/home/ornan/DevOps/Learning_Log/C#/Maior_de_Três/bin/Debug/net9.0/Maior_de_Três.runtimeconfig.json
+/var/home/ornan/DevOps/Learning_Log/C#/Maior_de_Três/bin/Debug/net9.0/Maior_de_Três.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Maior_de_Três/bin/Debug/net9.0/Maior_de_Três.pdb
+/var/home/ornan/DevOps/Learning_Log/C#/Maior_de_Três/obj/Debug/net9.0/Maior_de_Três.GeneratedMSBuildEditorConfig.editorconfig
+/var/home/ornan/DevOps/Learning_Log/C#/Maior_de_Três/obj/Debug/net9.0/Maior_de_Três.AssemblyInfoInputs.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Maior_de_Três/obj/Debug/net9.0/Maior_de_Três.AssemblyInfo.cs
+/var/home/ornan/DevOps/Learning_Log/C#/Maior_de_Três/obj/Debug/net9.0/Maior_de_Três.csproj.CoreCompileInputs.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Maior_de_Três/obj/Debug/net9.0/Maior_de_Três.sourcelink.json
+/var/home/ornan/DevOps/Learning_Log/C#/Maior_de_Três/obj/Debug/net9.0/Maior_de_Três.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Maior_de_Três/obj/Debug/net9.0/refint/Maior_de_Três.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Maior_de_Três/obj/Debug/net9.0/Maior_de_Três.pdb
+/var/home/ornan/DevOps/Learning_Log/C#/Maior_de_Três/obj/Debug/net9.0/Maior_de_Três.genruntimeconfig.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Maior_de_Três/obj/Debug/net9.0/ref/Maior_de_Três.dll
