@@ -1,0 +1,15 @@
+/var/home/ornan/DevOps/Learning_Log/C#/Mensagem_Hora/bin/Debug/net9.0/Mensagem_Hora
+/var/home/ornan/DevOps/Learning_Log/C#/Mensagem_Hora/bin/Debug/net9.0/Mensagem_Hora.deps.json
+/var/home/ornan/DevOps/Learning_Log/C#/Mensagem_Hora/bin/Debug/net9.0/Mensagem_Hora.runtimeconfig.json
+/var/home/ornan/DevOps/Learning_Log/C#/Mensagem_Hora/bin/Debug/net9.0/Mensagem_Hora.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Mensagem_Hora/bin/Debug/net9.0/Mensagem_Hora.pdb
+/var/home/ornan/DevOps/Learning_Log/C#/Mensagem_Hora/obj/Debug/net9.0/Mensagem_Hora.GeneratedMSBuildEditorConfig.editorconfig
+/var/home/ornan/DevOps/Learning_Log/C#/Mensagem_Hora/obj/Debug/net9.0/Mensagem_Hora.AssemblyInfoInputs.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Mensagem_Hora/obj/Debug/net9.0/Mensagem_Hora.AssemblyInfo.cs
+/var/home/ornan/DevOps/Learning_Log/C#/Mensagem_Hora/obj/Debug/net9.0/Mensagem_Hora.csproj.CoreCompileInputs.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Mensagem_Hora/obj/Debug/net9.0/Mensagem_Hora.sourcelink.json
+/var/home/ornan/DevOps/Learning_Log/C#/Mensagem_Hora/obj/Debug/net9.0/Mensagem_Hora.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Mensagem_Hora/obj/Debug/net9.0/refint/Mensagem_Hora.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Mensagem_Hora/obj/Debug/net9.0/Mensagem_Hora.pdb
+/var/home/ornan/DevOps/Learning_Log/C#/Mensagem_Hora/obj/Debug/net9.0/Mensagem_Hora.genruntimeconfig.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Mensagem_Hora/obj/Debug/net9.0/ref/Mensagem_Hora.dll
