@@ -1,0 +1,15 @@
+/var/home/ornan/DevOps/Learning_Log/C#/Operação/bin/Debug/net9.0/Operação
+/var/home/ornan/DevOps/Learning_Log/C#/Operação/bin/Debug/net9.0/Operação.deps.json
+/var/home/ornan/DevOps/Learning_Log/C#/Operação/bin/Debug/net9.0/Operação.runtimeconfig.json
+/var/home/ornan/DevOps/Learning_Log/C#/Operação/bin/Debug/net9.0/Operação.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Operação/bin/Debug/net9.0/Operação.pdb
+/var/home/ornan/DevOps/Learning_Log/C#/Operação/obj/Debug/net9.0/Operação.GeneratedMSBuildEditorConfig.editorconfig
+/var/home/ornan/DevOps/Learning_Log/C#/Operação/obj/Debug/net9.0/Operação.AssemblyInfoInputs.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Operação/obj/Debug/net9.0/Operação.AssemblyInfo.cs
+/var/home/ornan/DevOps/Learning_Log/C#/Operação/obj/Debug/net9.0/Operação.csproj.CoreCompileInputs.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Operação/obj/Debug/net9.0/Operação.sourcelink.json
+/var/home/ornan/DevOps/Learning_Log/C#/Operação/obj/Debug/net9.0/Operação.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Operação/obj/Debug/net9.0/refint/Operação.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Operação/obj/Debug/net9.0/Operação.pdb
+/var/home/ornan/DevOps/Learning_Log/C#/Operação/obj/Debug/net9.0/Operação.genruntimeconfig.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Operação/obj/Debug/net9.0/ref/Operação.dll
