@@ -1,0 +1,15 @@
+/var/home/ornan/DevOps/Learning_Log/C#/Bissexto/bin/Debug/net9.0/Bissexto
+/var/home/ornan/DevOps/Learning_Log/C#/Bissexto/bin/Debug/net9.0/Bissexto.deps.json
+/var/home/ornan/DevOps/Learning_Log/C#/Bissexto/bin/Debug/net9.0/Bissexto.runtimeconfig.json
+/var/home/ornan/DevOps/Learning_Log/C#/Bissexto/bin/Debug/net9.0/Bissexto.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Bissexto/bin/Debug/net9.0/Bissexto.pdb
+/var/home/ornan/DevOps/Learning_Log/C#/Bissexto/obj/Debug/net9.0/Bissexto.GeneratedMSBuildEditorConfig.editorconfig
+/var/home/ornan/DevOps/Learning_Log/C#/Bissexto/obj/Debug/net9.0/Bissexto.AssemblyInfoInputs.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Bissexto/obj/Debug/net9.0/Bissexto.AssemblyInfo.cs
+/var/home/ornan/DevOps/Learning_Log/C#/Bissexto/obj/Debug/net9.0/Bissexto.csproj.CoreCompileInputs.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Bissexto/obj/Debug/net9.0/Bissexto.sourcelink.json
+/var/home/ornan/DevOps/Learning_Log/C#/Bissexto/obj/Debug/net9.0/Bissexto.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Bissexto/obj/Debug/net9.0/refint/Bissexto.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Bissexto/obj/Debug/net9.0/Bissexto.pdb
+/var/home/ornan/DevOps/Learning_Log/C#/Bissexto/obj/Debug/net9.0/Bissexto.genruntimeconfig.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Bissexto/obj/Debug/net9.0/ref/Bissexto.dll
