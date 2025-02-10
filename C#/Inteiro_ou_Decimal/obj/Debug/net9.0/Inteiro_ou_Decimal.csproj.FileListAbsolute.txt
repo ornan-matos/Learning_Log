@@ -1,0 +1,15 @@
+/var/home/ornan/DevOps/Learning_Log/C#/Inteiro_ou_Decimal/bin/Debug/net9.0/Inteiro_ou_Decimal
+/var/home/ornan/DevOps/Learning_Log/C#/Inteiro_ou_Decimal/bin/Debug/net9.0/Inteiro_ou_Decimal.deps.json
+/var/home/ornan/DevOps/Learning_Log/C#/Inteiro_ou_Decimal/bin/Debug/net9.0/Inteiro_ou_Decimal.runtimeconfig.json
+/var/home/ornan/DevOps/Learning_Log/C#/Inteiro_ou_Decimal/bin/Debug/net9.0/Inteiro_ou_Decimal.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Inteiro_ou_Decimal/bin/Debug/net9.0/Inteiro_ou_Decimal.pdb
+/var/home/ornan/DevOps/Learning_Log/C#/Inteiro_ou_Decimal/obj/Debug/net9.0/Inteiro_ou_Decimal.GeneratedMSBuildEditorConfig.editorconfig
+/var/home/ornan/DevOps/Learning_Log/C#/Inteiro_ou_Decimal/obj/Debug/net9.0/Inteiro_ou_Decimal.AssemblyInfoInputs.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Inteiro_ou_Decimal/obj/Debug/net9.0/Inteiro_ou_Decimal.AssemblyInfo.cs
+/var/home/ornan/DevOps/Learning_Log/C#/Inteiro_ou_Decimal/obj/Debug/net9.0/Inteiro_ou_Decimal.csproj.CoreCompileInputs.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Inteiro_ou_Decimal/obj/Debug/net9.0/Inteiro_ou_Decimal.sourcelink.json
+/var/home/ornan/DevOps/Learning_Log/C#/Inteiro_ou_Decimal/obj/Debug/net9.0/Inteiro_ou_Decimal.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Inteiro_ou_Decimal/obj/Debug/net9.0/refint/Inteiro_ou_Decimal.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Inteiro_ou_Decimal/obj/Debug/net9.0/Inteiro_ou_Decimal.pdb
+/var/home/ornan/DevOps/Learning_Log/C#/Inteiro_ou_Decimal/obj/Debug/net9.0/Inteiro_ou_Decimal.genruntimeconfig.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Inteiro_ou_Decimal/obj/Debug/net9.0/ref/Inteiro_ou_Decimal.dll
