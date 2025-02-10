@@ -1,0 +1,15 @@
+/var/home/ornan/DevOps/Learning_Log/C#/Incremento_Decremento/bin/Debug/net9.0/Incremento_Decremento
+/var/home/ornan/DevOps/Learning_Log/C#/Incremento_Decremento/bin/Debug/net9.0/Incremento_Decremento.deps.json
+/var/home/ornan/DevOps/Learning_Log/C#/Incremento_Decremento/bin/Debug/net9.0/Incremento_Decremento.runtimeconfig.json
+/var/home/ornan/DevOps/Learning_Log/C#/Incremento_Decremento/bin/Debug/net9.0/Incremento_Decremento.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Incremento_Decremento/bin/Debug/net9.0/Incremento_Decremento.pdb
+/var/home/ornan/DevOps/Learning_Log/C#/Incremento_Decremento/obj/Debug/net9.0/Incremento_Decremento.GeneratedMSBuildEditorConfig.editorconfig
+/var/home/ornan/DevOps/Learning_Log/C#/Incremento_Decremento/obj/Debug/net9.0/Incremento_Decremento.AssemblyInfoInputs.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Incremento_Decremento/obj/Debug/net9.0/Incremento_Decremento.AssemblyInfo.cs
+/var/home/ornan/DevOps/Learning_Log/C#/Incremento_Decremento/obj/Debug/net9.0/Incremento_Decremento.csproj.CoreCompileInputs.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Incremento_Decremento/obj/Debug/net9.0/Incremento_Decremento.sourcelink.json
+/var/home/ornan/DevOps/Learning_Log/C#/Incremento_Decremento/obj/Debug/net9.0/Incremento_Decremento.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Incremento_Decremento/obj/Debug/net9.0/refint/Incremento_Decremento.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Incremento_Decremento/obj/Debug/net9.0/Incremento_Decremento.pdb
+/var/home/ornan/DevOps/Learning_Log/C#/Incremento_Decremento/obj/Debug/net9.0/Incremento_Decremento.genruntimeconfig.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Incremento_Decremento/obj/Debug/net9.0/ref/Incremento_Decremento.dll
