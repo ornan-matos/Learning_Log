@@ -1,0 +1,15 @@
+/var/home/ornan/DevOps/Learning_Log/C#/For/bin/Debug/net9.0/For
+/var/home/ornan/DevOps/Learning_Log/C#/For/bin/Debug/net9.0/For.deps.json
+/var/home/ornan/DevOps/Learning_Log/C#/For/bin/Debug/net9.0/For.runtimeconfig.json
+/var/home/ornan/DevOps/Learning_Log/C#/For/bin/Debug/net9.0/For.dll
+/var/home/ornan/DevOps/Learning_Log/C#/For/bin/Debug/net9.0/For.pdb
+/var/home/ornan/DevOps/Learning_Log/C#/For/obj/Debug/net9.0/For.GeneratedMSBuildEditorConfig.editorconfig
+/var/home/ornan/DevOps/Learning_Log/C#/For/obj/Debug/net9.0/For.AssemblyInfoInputs.cache
+/var/home/ornan/DevOps/Learning_Log/C#/For/obj/Debug/net9.0/For.AssemblyInfo.cs
+/var/home/ornan/DevOps/Learning_Log/C#/For/obj/Debug/net9.0/For.csproj.CoreCompileInputs.cache
+/var/home/ornan/DevOps/Learning_Log/C#/For/obj/Debug/net9.0/For.sourcelink.json
+/var/home/ornan/DevOps/Learning_Log/C#/For/obj/Debug/net9.0/For.dll
+/var/home/ornan/DevOps/Learning_Log/C#/For/obj/Debug/net9.0/refint/For.dll
+/var/home/ornan/DevOps/Learning_Log/C#/For/obj/Debug/net9.0/For.pdb
+/var/home/ornan/DevOps/Learning_Log/C#/For/obj/Debug/net9.0/For.genruntimeconfig.cache
+/var/home/ornan/DevOps/Learning_Log/C#/For/obj/Debug/net9.0/ref/For.dll
