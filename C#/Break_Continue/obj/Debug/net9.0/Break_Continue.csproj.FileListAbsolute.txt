@@ -1,0 +1,15 @@
+/var/home/ornan/DevOps/Learning_Log/C#/Break_Continue/bin/Debug/net9.0/Break_Continue
+/var/home/ornan/DevOps/Learning_Log/C#/Break_Continue/bin/Debug/net9.0/Break_Continue.deps.json
+/var/home/ornan/DevOps/Learning_Log/C#/Break_Continue/bin/Debug/net9.0/Break_Continue.runtimeconfig.json
+/var/home/ornan/DevOps/Learning_Log/C#/Break_Continue/bin/Debug/net9.0/Break_Continue.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Break_Continue/bin/Debug/net9.0/Break_Continue.pdb
+/var/home/ornan/DevOps/Learning_Log/C#/Break_Continue/obj/Debug/net9.0/Break_Continue.GeneratedMSBuildEditorConfig.editorconfig
+/var/home/ornan/DevOps/Learning_Log/C#/Break_Continue/obj/Debug/net9.0/Break_Continue.AssemblyInfoInputs.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Break_Continue/obj/Debug/net9.0/Break_Continue.AssemblyInfo.cs
+/var/home/ornan/DevOps/Learning_Log/C#/Break_Continue/obj/Debug/net9.0/Break_Continue.csproj.CoreCompileInputs.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Break_Continue/obj/Debug/net9.0/Break_Continue.sourcelink.json
+/var/home/ornan/DevOps/Learning_Log/C#/Break_Continue/obj/Debug/net9.0/Break_Continue.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Break_Continue/obj/Debug/net9.0/refint/Break_Continue.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Break_Continue/obj/Debug/net9.0/Break_Continue.pdb
+/var/home/ornan/DevOps/Learning_Log/C#/Break_Continue/obj/Debug/net9.0/Break_Continue.genruntimeconfig.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Break_Continue/obj/Debug/net9.0/ref/Break_Continue.dll
