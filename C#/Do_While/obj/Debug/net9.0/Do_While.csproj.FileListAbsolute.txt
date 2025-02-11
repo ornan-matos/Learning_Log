@@ -1,0 +1,15 @@
+/var/home/ornan/DevOps/Learning_Log/C#/Do_While/bin/Debug/net9.0/Do_While
+/var/home/ornan/DevOps/Learning_Log/C#/Do_While/bin/Debug/net9.0/Do_While.deps.json
+/var/home/ornan/DevOps/Learning_Log/C#/Do_While/bin/Debug/net9.0/Do_While.runtimeconfig.json
+/var/home/ornan/DevOps/Learning_Log/C#/Do_While/bin/Debug/net9.0/Do_While.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Do_While/bin/Debug/net9.0/Do_While.pdb
+/var/home/ornan/DevOps/Learning_Log/C#/Do_While/obj/Debug/net9.0/Do_While.GeneratedMSBuildEditorConfig.editorconfig
+/var/home/ornan/DevOps/Learning_Log/C#/Do_While/obj/Debug/net9.0/Do_While.AssemblyInfoInputs.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Do_While/obj/Debug/net9.0/Do_While.AssemblyInfo.cs
+/var/home/ornan/DevOps/Learning_Log/C#/Do_While/obj/Debug/net9.0/Do_While.csproj.CoreCompileInputs.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Do_While/obj/Debug/net9.0/Do_While.sourcelink.json
+/var/home/ornan/DevOps/Learning_Log/C#/Do_While/obj/Debug/net9.0/Do_While.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Do_While/obj/Debug/net9.0/refint/Do_While.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Do_While/obj/Debug/net9.0/Do_While.pdb
+/var/home/ornan/DevOps/Learning_Log/C#/Do_While/obj/Debug/net9.0/Do_While.genruntimeconfig.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Do_While/obj/Debug/net9.0/ref/Do_While.dll
