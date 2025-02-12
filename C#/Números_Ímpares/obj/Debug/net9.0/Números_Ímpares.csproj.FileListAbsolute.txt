@@ -1,0 +1,15 @@
+/var/home/ornan/DevOps/Learning_Log/C#/Números_Ímpares/bin/Debug/net9.0/Números_Ímpares
+/var/home/ornan/DevOps/Learning_Log/C#/Números_Ímpares/bin/Debug/net9.0/Números_Ímpares.deps.json
+/var/home/ornan/DevOps/Learning_Log/C#/Números_Ímpares/bin/Debug/net9.0/Números_Ímpares.runtimeconfig.json
+/var/home/ornan/DevOps/Learning_Log/C#/Números_Ímpares/bin/Debug/net9.0/Números_Ímpares.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Números_Ímpares/bin/Debug/net9.0/Números_Ímpares.pdb
+/var/home/ornan/DevOps/Learning_Log/C#/Números_Ímpares/obj/Debug/net9.0/Números_Ímpares.GeneratedMSBuildEditorConfig.editorconfig
+/var/home/ornan/DevOps/Learning_Log/C#/Números_Ímpares/obj/Debug/net9.0/Números_Ímpares.AssemblyInfoInputs.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Números_Ímpares/obj/Debug/net9.0/Números_Ímpares.AssemblyInfo.cs
+/var/home/ornan/DevOps/Learning_Log/C#/Números_Ímpares/obj/Debug/net9.0/Números_Ímpares.csproj.CoreCompileInputs.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Números_Ímpares/obj/Debug/net9.0/Números_Ímpares.sourcelink.json
+/var/home/ornan/DevOps/Learning_Log/C#/Números_Ímpares/obj/Debug/net9.0/Números_Ímpares.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Números_Ímpares/obj/Debug/net9.0/refint/Números_Ímpares.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Números_Ímpares/obj/Debug/net9.0/Números_Ímpares.pdb
+/var/home/ornan/DevOps/Learning_Log/C#/Números_Ímpares/obj/Debug/net9.0/Números_Ímpares.genruntimeconfig.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Números_Ímpares/obj/Debug/net9.0/ref/Números_Ímpares.dll
