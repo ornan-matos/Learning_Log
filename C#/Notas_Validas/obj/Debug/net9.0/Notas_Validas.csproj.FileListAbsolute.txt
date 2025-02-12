@@ -1,0 +1,15 @@
+/var/home/ornan/DevOps/Learning_Log/C#/Notas_Validas/bin/Debug/net9.0/Notas_Validas
+/var/home/ornan/DevOps/Learning_Log/C#/Notas_Validas/bin/Debug/net9.0/Notas_Validas.deps.json
+/var/home/ornan/DevOps/Learning_Log/C#/Notas_Validas/bin/Debug/net9.0/Notas_Validas.runtimeconfig.json
+/var/home/ornan/DevOps/Learning_Log/C#/Notas_Validas/bin/Debug/net9.0/Notas_Validas.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Notas_Validas/bin/Debug/net9.0/Notas_Validas.pdb
+/var/home/ornan/DevOps/Learning_Log/C#/Notas_Validas/obj/Debug/net9.0/Notas_Validas.GeneratedMSBuildEditorConfig.editorconfig
+/var/home/ornan/DevOps/Learning_Log/C#/Notas_Validas/obj/Debug/net9.0/Notas_Validas.AssemblyInfoInputs.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Notas_Validas/obj/Debug/net9.0/Notas_Validas.AssemblyInfo.cs
+/var/home/ornan/DevOps/Learning_Log/C#/Notas_Validas/obj/Debug/net9.0/Notas_Validas.csproj.CoreCompileInputs.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Notas_Validas/obj/Debug/net9.0/Notas_Validas.sourcelink.json
+/var/home/ornan/DevOps/Learning_Log/C#/Notas_Validas/obj/Debug/net9.0/Notas_Validas.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Notas_Validas/obj/Debug/net9.0/refint/Notas_Validas.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Notas_Validas/obj/Debug/net9.0/Notas_Validas.pdb
+/var/home/ornan/DevOps/Learning_Log/C#/Notas_Validas/obj/Debug/net9.0/Notas_Validas.genruntimeconfig.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Notas_Validas/obj/Debug/net9.0/ref/Notas_Validas.dll
