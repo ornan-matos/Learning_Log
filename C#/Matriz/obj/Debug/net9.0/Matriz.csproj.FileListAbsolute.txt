@@ -1,0 +1,15 @@
+/var/home/ornan/DevOps/Learning_Log/C#/Matriz/bin/Debug/net9.0/Matriz
+/var/home/ornan/DevOps/Learning_Log/C#/Matriz/bin/Debug/net9.0/Matriz.deps.json
+/var/home/ornan/DevOps/Learning_Log/C#/Matriz/bin/Debug/net9.0/Matriz.runtimeconfig.json
+/var/home/ornan/DevOps/Learning_Log/C#/Matriz/bin/Debug/net9.0/Matriz.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Matriz/bin/Debug/net9.0/Matriz.pdb
+/var/home/ornan/DevOps/Learning_Log/C#/Matriz/obj/Debug/net9.0/Matriz.GeneratedMSBuildEditorConfig.editorconfig
+/var/home/ornan/DevOps/Learning_Log/C#/Matriz/obj/Debug/net9.0/Matriz.AssemblyInfoInputs.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Matriz/obj/Debug/net9.0/Matriz.AssemblyInfo.cs
+/var/home/ornan/DevOps/Learning_Log/C#/Matriz/obj/Debug/net9.0/Matriz.csproj.CoreCompileInputs.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Matriz/obj/Debug/net9.0/Matriz.sourcelink.json
+/var/home/ornan/DevOps/Learning_Log/C#/Matriz/obj/Debug/net9.0/Matriz.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Matriz/obj/Debug/net9.0/refint/Matriz.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Matriz/obj/Debug/net9.0/Matriz.pdb
+/var/home/ornan/DevOps/Learning_Log/C#/Matriz/obj/Debug/net9.0/Matriz.genruntimeconfig.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Matriz/obj/Debug/net9.0/ref/Matriz.dll
