@@ -1,0 +1,15 @@
+/var/home/ornan/DevOps/Learning_Log/C#/Tabuada/obj/Debug/net9.0/Tabuada.GeneratedMSBuildEditorConfig.editorconfig
+/var/home/ornan/DevOps/Learning_Log/C#/Tabuada/obj/Debug/net9.0/Tabuada.AssemblyInfoInputs.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Tabuada/obj/Debug/net9.0/Tabuada.AssemblyInfo.cs
+/var/home/ornan/DevOps/Learning_Log/C#/Tabuada/obj/Debug/net9.0/Tabuada.csproj.CoreCompileInputs.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Tabuada/obj/Debug/net9.0/Tabuada.sourcelink.json
+/var/home/ornan/DevOps/Learning_Log/C#/Tabuada/bin/Debug/net9.0/Tabuada
+/var/home/ornan/DevOps/Learning_Log/C#/Tabuada/bin/Debug/net9.0/Tabuada.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Tabuada/bin/Debug/net9.0/Tabuada.pdb
+/var/home/ornan/DevOps/Learning_Log/C#/Tabuada/obj/Debug/net9.0/Tabuada.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Tabuada/obj/Debug/net9.0/refint/Tabuada.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Tabuada/obj/Debug/net9.0/Tabuada.pdb
+/var/home/ornan/DevOps/Learning_Log/C#/Tabuada/bin/Debug/net9.0/Tabuada.deps.json
+/var/home/ornan/DevOps/Learning_Log/C#/Tabuada/bin/Debug/net9.0/Tabuada.runtimeconfig.json
+/var/home/ornan/DevOps/Learning_Log/C#/Tabuada/obj/Debug/net9.0/Tabuada.genruntimeconfig.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Tabuada/obj/Debug/net9.0/ref/Tabuada.dll
