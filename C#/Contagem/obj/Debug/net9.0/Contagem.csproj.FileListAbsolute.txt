@@ -1,0 +1,15 @@
+/var/home/ornan/DevOps/Learning_Log/C#/Contagem/bin/Debug/net9.0/Contagem
+/var/home/ornan/DevOps/Learning_Log/C#/Contagem/bin/Debug/net9.0/Contagem.deps.json
+/var/home/ornan/DevOps/Learning_Log/C#/Contagem/bin/Debug/net9.0/Contagem.runtimeconfig.json
+/var/home/ornan/DevOps/Learning_Log/C#/Contagem/bin/Debug/net9.0/Contagem.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Contagem/bin/Debug/net9.0/Contagem.pdb
+/var/home/ornan/DevOps/Learning_Log/C#/Contagem/obj/Debug/net9.0/Contagem.GeneratedMSBuildEditorConfig.editorconfig
+/var/home/ornan/DevOps/Learning_Log/C#/Contagem/obj/Debug/net9.0/Contagem.AssemblyInfoInputs.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Contagem/obj/Debug/net9.0/Contagem.AssemblyInfo.cs
+/var/home/ornan/DevOps/Learning_Log/C#/Contagem/obj/Debug/net9.0/Contagem.csproj.CoreCompileInputs.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Contagem/obj/Debug/net9.0/Contagem.sourcelink.json
+/var/home/ornan/DevOps/Learning_Log/C#/Contagem/obj/Debug/net9.0/Contagem.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Contagem/obj/Debug/net9.0/refint/Contagem.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Contagem/obj/Debug/net9.0/Contagem.pdb
+/var/home/ornan/DevOps/Learning_Log/C#/Contagem/obj/Debug/net9.0/Contagem.genruntimeconfig.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Contagem/obj/Debug/net9.0/ref/Contagem.dll
