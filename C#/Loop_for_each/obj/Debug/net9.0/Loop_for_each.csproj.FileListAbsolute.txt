@@ -1,0 +1,15 @@
+/var/home/ornan/DevOps/Learning_Log/C#/Loop_for_each/bin/Debug/net9.0/Loop_for_each
+/var/home/ornan/DevOps/Learning_Log/C#/Loop_for_each/bin/Debug/net9.0/Loop_for_each.deps.json
+/var/home/ornan/DevOps/Learning_Log/C#/Loop_for_each/bin/Debug/net9.0/Loop_for_each.runtimeconfig.json
+/var/home/ornan/DevOps/Learning_Log/C#/Loop_for_each/bin/Debug/net9.0/Loop_for_each.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Loop_for_each/bin/Debug/net9.0/Loop_for_each.pdb
+/var/home/ornan/DevOps/Learning_Log/C#/Loop_for_each/obj/Debug/net9.0/Loop_for_each.GeneratedMSBuildEditorConfig.editorconfig
+/var/home/ornan/DevOps/Learning_Log/C#/Loop_for_each/obj/Debug/net9.0/Loop_for_each.AssemblyInfoInputs.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Loop_for_each/obj/Debug/net9.0/Loop_for_each.AssemblyInfo.cs
+/var/home/ornan/DevOps/Learning_Log/C#/Loop_for_each/obj/Debug/net9.0/Loop_for_each.csproj.CoreCompileInputs.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Loop_for_each/obj/Debug/net9.0/Loop_for_each.sourcelink.json
+/var/home/ornan/DevOps/Learning_Log/C#/Loop_for_each/obj/Debug/net9.0/Loop_for_each.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Loop_for_each/obj/Debug/net9.0/refint/Loop_for_each.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Loop_for_each/obj/Debug/net9.0/Loop_for_each.pdb
+/var/home/ornan/DevOps/Learning_Log/C#/Loop_for_each/obj/Debug/net9.0/Loop_for_each.genruntimeconfig.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Loop_for_each/obj/Debug/net9.0/ref/Loop_for_each.dll
