@@ -1,0 +1,15 @@
+/var/home/ornan/DevOps/Learning_Log/C#/Intervalo_Números/bin/Debug/net9.0/Intervalo_Números
+/var/home/ornan/DevOps/Learning_Log/C#/Intervalo_Números/bin/Debug/net9.0/Intervalo_Números.deps.json
+/var/home/ornan/DevOps/Learning_Log/C#/Intervalo_Números/bin/Debug/net9.0/Intervalo_Números.runtimeconfig.json
+/var/home/ornan/DevOps/Learning_Log/C#/Intervalo_Números/bin/Debug/net9.0/Intervalo_Números.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Intervalo_Números/bin/Debug/net9.0/Intervalo_Números.pdb
+/var/home/ornan/DevOps/Learning_Log/C#/Intervalo_Números/obj/Debug/net9.0/Intervalo_Números.GeneratedMSBuildEditorConfig.editorconfig
+/var/home/ornan/DevOps/Learning_Log/C#/Intervalo_Números/obj/Debug/net9.0/Intervalo_Números.AssemblyInfoInputs.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Intervalo_Números/obj/Debug/net9.0/Intervalo_Números.AssemblyInfo.cs
+/var/home/ornan/DevOps/Learning_Log/C#/Intervalo_Números/obj/Debug/net9.0/Intervalo_Números.csproj.CoreCompileInputs.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Intervalo_Números/obj/Debug/net9.0/Intervalo_Números.sourcelink.json
+/var/home/ornan/DevOps/Learning_Log/C#/Intervalo_Números/obj/Debug/net9.0/Intervalo_Números.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Intervalo_Números/obj/Debug/net9.0/refint/Intervalo_Números.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Intervalo_Números/obj/Debug/net9.0/Intervalo_Números.pdb
+/var/home/ornan/DevOps/Learning_Log/C#/Intervalo_Números/obj/Debug/net9.0/Intervalo_Números.genruntimeconfig.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Intervalo_Números/obj/Debug/net9.0/ref/Intervalo_Números.dll
