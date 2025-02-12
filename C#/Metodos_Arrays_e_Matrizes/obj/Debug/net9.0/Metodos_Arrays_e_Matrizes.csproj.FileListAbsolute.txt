@@ -1,0 +1,15 @@
+/var/home/ornan/DevOps/Learning_Log/Metodos_Arrays_e_Matrizes/bin/Debug/net9.0/Metodos_Arrays_e_Matrizes
+/var/home/ornan/DevOps/Learning_Log/Metodos_Arrays_e_Matrizes/bin/Debug/net9.0/Metodos_Arrays_e_Matrizes.deps.json
+/var/home/ornan/DevOps/Learning_Log/Metodos_Arrays_e_Matrizes/bin/Debug/net9.0/Metodos_Arrays_e_Matrizes.runtimeconfig.json
+/var/home/ornan/DevOps/Learning_Log/Metodos_Arrays_e_Matrizes/bin/Debug/net9.0/Metodos_Arrays_e_Matrizes.dll
+/var/home/ornan/DevOps/Learning_Log/Metodos_Arrays_e_Matrizes/bin/Debug/net9.0/Metodos_Arrays_e_Matrizes.pdb
+/var/home/ornan/DevOps/Learning_Log/Metodos_Arrays_e_Matrizes/obj/Debug/net9.0/Metodos_Arrays_e_Matrizes.GeneratedMSBuildEditorConfig.editorconfig
+/var/home/ornan/DevOps/Learning_Log/Metodos_Arrays_e_Matrizes/obj/Debug/net9.0/Metodos_Arrays_e_Matrizes.AssemblyInfoInputs.cache
+/var/home/ornan/DevOps/Learning_Log/Metodos_Arrays_e_Matrizes/obj/Debug/net9.0/Metodos_Arrays_e_Matrizes.AssemblyInfo.cs
+/var/home/ornan/DevOps/Learning_Log/Metodos_Arrays_e_Matrizes/obj/Debug/net9.0/Metodos_Arrays_e_Matrizes.csproj.CoreCompileInputs.cache
+/var/home/ornan/DevOps/Learning_Log/Metodos_Arrays_e_Matrizes/obj/Debug/net9.0/Metodos_Arrays_e_Matrizes.sourcelink.json
+/var/home/ornan/DevOps/Learning_Log/Metodos_Arrays_e_Matrizes/obj/Debug/net9.0/Metodos_Arrays_e_Matrizes.dll
+/var/home/ornan/DevOps/Learning_Log/Metodos_Arrays_e_Matrizes/obj/Debug/net9.0/refint/Metodos_Arrays_e_Matrizes.dll
+/var/home/ornan/DevOps/Learning_Log/Metodos_Arrays_e_Matrizes/obj/Debug/net9.0/Metodos_Arrays_e_Matrizes.pdb
+/var/home/ornan/DevOps/Learning_Log/Metodos_Arrays_e_Matrizes/obj/Debug/net9.0/Metodos_Arrays_e_Matrizes.genruntimeconfig.cache
+/var/home/ornan/DevOps/Learning_Log/Metodos_Arrays_e_Matrizes/obj/Debug/net9.0/ref/Metodos_Arrays_e_Matrizes.dll
