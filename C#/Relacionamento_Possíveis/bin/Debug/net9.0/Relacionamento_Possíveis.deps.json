@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Relacionamento_Possíveis/1.0.0": {
+        "runtime": {
+          "Relacionamento_Possíveis.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Relacionamento_Possíveis/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

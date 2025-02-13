@@ -1,0 +1,15 @@
+/var/home/ornan/DevOps/Learning_Log/C#/Relacionamento_Possíveis/bin/Debug/net9.0/Relacionamento_Possíveis
+/var/home/ornan/DevOps/Learning_Log/C#/Relacionamento_Possíveis/bin/Debug/net9.0/Relacionamento_Possíveis.deps.json
+/var/home/ornan/DevOps/Learning_Log/C#/Relacionamento_Possíveis/bin/Debug/net9.0/Relacionamento_Possíveis.runtimeconfig.json
+/var/home/ornan/DevOps/Learning_Log/C#/Relacionamento_Possíveis/bin/Debug/net9.0/Relacionamento_Possíveis.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Relacionamento_Possíveis/bin/Debug/net9.0/Relacionamento_Possíveis.pdb
+/var/home/ornan/DevOps/Learning_Log/C#/Relacionamento_Possíveis/obj/Debug/net9.0/Relacionamento_Possíveis.GeneratedMSBuildEditorConfig.editorconfig
+/var/home/ornan/DevOps/Learning_Log/C#/Relacionamento_Possíveis/obj/Debug/net9.0/Relacionamento_Possíveis.AssemblyInfoInputs.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Relacionamento_Possíveis/obj/Debug/net9.0/Relacionamento_Possíveis.AssemblyInfo.cs
+/var/home/ornan/DevOps/Learning_Log/C#/Relacionamento_Possíveis/obj/Debug/net9.0/Relacionamento_Possíveis.csproj.CoreCompileInputs.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Relacionamento_Possíveis/obj/Debug/net9.0/Relacionamento_Possíveis.sourcelink.json
+/var/home/ornan/DevOps/Learning_Log/C#/Relacionamento_Possíveis/obj/Debug/net9.0/Relacionamento_Possíveis.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Relacionamento_Possíveis/obj/Debug/net9.0/refint/Relacionamento_Possíveis.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Relacionamento_Possíveis/obj/Debug/net9.0/Relacionamento_Possíveis.pdb
+/var/home/ornan/DevOps/Learning_Log/C#/Relacionamento_Possíveis/obj/Debug/net9.0/Relacionamento_Possíveis.genruntimeconfig.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Relacionamento_Possíveis/obj/Debug/net9.0/ref/Relacionamento_Possíveis.dll
