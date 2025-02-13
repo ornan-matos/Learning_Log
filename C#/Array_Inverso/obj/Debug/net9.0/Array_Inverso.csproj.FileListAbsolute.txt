@@ -1,0 +1,15 @@
+/var/home/ornan/DevOps/Learning_Log/C#/Array_Inverso/bin/Debug/net9.0/Array_Inverso
+/var/home/ornan/DevOps/Learning_Log/C#/Array_Inverso/bin/Debug/net9.0/Array_Inverso.deps.json
+/var/home/ornan/DevOps/Learning_Log/C#/Array_Inverso/bin/Debug/net9.0/Array_Inverso.runtimeconfig.json
+/var/home/ornan/DevOps/Learning_Log/C#/Array_Inverso/bin/Debug/net9.0/Array_Inverso.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Array_Inverso/bin/Debug/net9.0/Array_Inverso.pdb
+/var/home/ornan/DevOps/Learning_Log/C#/Array_Inverso/obj/Debug/net9.0/Array_Inverso.GeneratedMSBuildEditorConfig.editorconfig
+/var/home/ornan/DevOps/Learning_Log/C#/Array_Inverso/obj/Debug/net9.0/Array_Inverso.AssemblyInfoInputs.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Array_Inverso/obj/Debug/net9.0/Array_Inverso.AssemblyInfo.cs
+/var/home/ornan/DevOps/Learning_Log/C#/Array_Inverso/obj/Debug/net9.0/Array_Inverso.csproj.CoreCompileInputs.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Array_Inverso/obj/Debug/net9.0/Array_Inverso.sourcelink.json
+/var/home/ornan/DevOps/Learning_Log/C#/Array_Inverso/obj/Debug/net9.0/Array_Inverso.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Array_Inverso/obj/Debug/net9.0/refint/Array_Inverso.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Array_Inverso/obj/Debug/net9.0/Array_Inverso.pdb
+/var/home/ornan/DevOps/Learning_Log/C#/Array_Inverso/obj/Debug/net9.0/Array_Inverso.genruntimeconfig.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Array_Inverso/obj/Debug/net9.0/ref/Array_Inverso.dll
