@@ -1,0 +1,15 @@
+/var/home/ornan/DevOps/Learning_Log/C#/Ler_Vetor/bin/Debug/net9.0/Ler_Vetor
+/var/home/ornan/DevOps/Learning_Log/C#/Ler_Vetor/bin/Debug/net9.0/Ler_Vetor.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Ler_Vetor/bin/Debug/net9.0/Ler_Vetor.pdb
+/var/home/ornan/DevOps/Learning_Log/C#/Ler_Vetor/obj/Debug/net9.0/Ler_Vetor.GeneratedMSBuildEditorConfig.editorconfig
+/var/home/ornan/DevOps/Learning_Log/C#/Ler_Vetor/obj/Debug/net9.0/Ler_Vetor.AssemblyInfoInputs.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Ler_Vetor/obj/Debug/net9.0/Ler_Vetor.AssemblyInfo.cs
+/var/home/ornan/DevOps/Learning_Log/C#/Ler_Vetor/obj/Debug/net9.0/Ler_Vetor.csproj.CoreCompileInputs.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Ler_Vetor/obj/Debug/net9.0/Ler_Vetor.sourcelink.json
+/var/home/ornan/DevOps/Learning_Log/C#/Ler_Vetor/obj/Debug/net9.0/Ler_Vetor.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Ler_Vetor/obj/Debug/net9.0/refint/Ler_Vetor.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Ler_Vetor/obj/Debug/net9.0/Ler_Vetor.pdb
+/var/home/ornan/DevOps/Learning_Log/C#/Ler_Vetor/bin/Debug/net9.0/Ler_Vetor.deps.json
+/var/home/ornan/DevOps/Learning_Log/C#/Ler_Vetor/bin/Debug/net9.0/Ler_Vetor.runtimeconfig.json
+/var/home/ornan/DevOps/Learning_Log/C#/Ler_Vetor/obj/Debug/net9.0/Ler_Vetor.genruntimeconfig.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Ler_Vetor/obj/Debug/net9.0/ref/Ler_Vetor.dll
