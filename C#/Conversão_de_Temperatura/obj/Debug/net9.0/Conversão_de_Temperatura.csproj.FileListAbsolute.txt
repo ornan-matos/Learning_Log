@@ -1,0 +1,15 @@
+/var/home/ornan/DevOps/Learning_Log/C#/Conversão_de_Temperatura/bin/Debug/net9.0/Conversão_de_Temperatura
+/var/home/ornan/DevOps/Learning_Log/C#/Conversão_de_Temperatura/bin/Debug/net9.0/Conversão_de_Temperatura.deps.json
+/var/home/ornan/DevOps/Learning_Log/C#/Conversão_de_Temperatura/bin/Debug/net9.0/Conversão_de_Temperatura.runtimeconfig.json
+/var/home/ornan/DevOps/Learning_Log/C#/Conversão_de_Temperatura/bin/Debug/net9.0/Conversão_de_Temperatura.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Conversão_de_Temperatura/bin/Debug/net9.0/Conversão_de_Temperatura.pdb
+/var/home/ornan/DevOps/Learning_Log/C#/Conversão_de_Temperatura/obj/Debug/net9.0/Conversão_de_Temperatura.GeneratedMSBuildEditorConfig.editorconfig
+/var/home/ornan/DevOps/Learning_Log/C#/Conversão_de_Temperatura/obj/Debug/net9.0/Conversão_de_Temperatura.AssemblyInfoInputs.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Conversão_de_Temperatura/obj/Debug/net9.0/Conversão_de_Temperatura.AssemblyInfo.cs
+/var/home/ornan/DevOps/Learning_Log/C#/Conversão_de_Temperatura/obj/Debug/net9.0/Conversão_de_Temperatura.csproj.CoreCompileInputs.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Conversão_de_Temperatura/obj/Debug/net9.0/Conversão_de_Temperatura.sourcelink.json
+/var/home/ornan/DevOps/Learning_Log/C#/Conversão_de_Temperatura/obj/Debug/net9.0/Conversão_de_Temperatura.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Conversão_de_Temperatura/obj/Debug/net9.0/refint/Conversão_de_Temperatura.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Conversão_de_Temperatura/obj/Debug/net9.0/Conversão_de_Temperatura.pdb
+/var/home/ornan/DevOps/Learning_Log/C#/Conversão_de_Temperatura/obj/Debug/net9.0/Conversão_de_Temperatura.genruntimeconfig.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Conversão_de_Temperatura/obj/Debug/net9.0/ref/Conversão_de_Temperatura.dll
