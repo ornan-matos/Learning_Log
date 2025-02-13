@@ -1,0 +1,15 @@
+/var/home/ornan/DevOps/Learning_Log/C#/Calculo_de_idade/bin/Debug/net9.0/Calculo_de_idade
+/var/home/ornan/DevOps/Learning_Log/C#/Calculo_de_idade/bin/Debug/net9.0/Calculo_de_idade.deps.json
+/var/home/ornan/DevOps/Learning_Log/C#/Calculo_de_idade/bin/Debug/net9.0/Calculo_de_idade.runtimeconfig.json
+/var/home/ornan/DevOps/Learning_Log/C#/Calculo_de_idade/bin/Debug/net9.0/Calculo_de_idade.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Calculo_de_idade/bin/Debug/net9.0/Calculo_de_idade.pdb
+/var/home/ornan/DevOps/Learning_Log/C#/Calculo_de_idade/obj/Debug/net9.0/Calculo_de_idade.GeneratedMSBuildEditorConfig.editorconfig
+/var/home/ornan/DevOps/Learning_Log/C#/Calculo_de_idade/obj/Debug/net9.0/Calculo_de_idade.AssemblyInfoInputs.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Calculo_de_idade/obj/Debug/net9.0/Calculo_de_idade.AssemblyInfo.cs
+/var/home/ornan/DevOps/Learning_Log/C#/Calculo_de_idade/obj/Debug/net9.0/Calculo_de_idade.csproj.CoreCompileInputs.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Calculo_de_idade/obj/Debug/net9.0/Calculo_de_idade.sourcelink.json
+/var/home/ornan/DevOps/Learning_Log/C#/Calculo_de_idade/obj/Debug/net9.0/Calculo_de_idade.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Calculo_de_idade/obj/Debug/net9.0/refint/Calculo_de_idade.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Calculo_de_idade/obj/Debug/net9.0/Calculo_de_idade.pdb
+/var/home/ornan/DevOps/Learning_Log/C#/Calculo_de_idade/obj/Debug/net9.0/Calculo_de_idade.genruntimeconfig.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Calculo_de_idade/obj/Debug/net9.0/ref/Calculo_de_idade.dll
