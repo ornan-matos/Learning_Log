@@ -1,0 +1,15 @@
+/var/home/ornan/DevOps/Learning_Log/C#/Combustivel/bin/Debug/net9.0/Combustivel
+/var/home/ornan/DevOps/Learning_Log/C#/Combustivel/bin/Debug/net9.0/Combustivel.deps.json
+/var/home/ornan/DevOps/Learning_Log/C#/Combustivel/bin/Debug/net9.0/Combustivel.runtimeconfig.json
+/var/home/ornan/DevOps/Learning_Log/C#/Combustivel/bin/Debug/net9.0/Combustivel.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Combustivel/bin/Debug/net9.0/Combustivel.pdb
+/var/home/ornan/DevOps/Learning_Log/C#/Combustivel/obj/Debug/net9.0/Combustivel.GeneratedMSBuildEditorConfig.editorconfig
+/var/home/ornan/DevOps/Learning_Log/C#/Combustivel/obj/Debug/net9.0/Combustivel.AssemblyInfoInputs.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Combustivel/obj/Debug/net9.0/Combustivel.AssemblyInfo.cs
+/var/home/ornan/DevOps/Learning_Log/C#/Combustivel/obj/Debug/net9.0/Combustivel.csproj.CoreCompileInputs.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Combustivel/obj/Debug/net9.0/Combustivel.sourcelink.json
+/var/home/ornan/DevOps/Learning_Log/C#/Combustivel/obj/Debug/net9.0/Combustivel.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Combustivel/obj/Debug/net9.0/refint/Combustivel.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Combustivel/obj/Debug/net9.0/Combustivel.pdb
+/var/home/ornan/DevOps/Learning_Log/C#/Combustivel/obj/Debug/net9.0/Combustivel.genruntimeconfig.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Combustivel/obj/Debug/net9.0/ref/Combustivel.dll
