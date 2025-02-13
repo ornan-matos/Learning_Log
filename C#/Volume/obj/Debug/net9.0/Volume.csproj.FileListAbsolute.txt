@@ -1,0 +1,15 @@
+/var/home/ornan/DevOps/Learning_Log/C#/Volume/bin/Debug/net9.0/Volume
+/var/home/ornan/DevOps/Learning_Log/C#/Volume/bin/Debug/net9.0/Volume.deps.json
+/var/home/ornan/DevOps/Learning_Log/C#/Volume/bin/Debug/net9.0/Volume.runtimeconfig.json
+/var/home/ornan/DevOps/Learning_Log/C#/Volume/bin/Debug/net9.0/Volume.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Volume/bin/Debug/net9.0/Volume.pdb
+/var/home/ornan/DevOps/Learning_Log/C#/Volume/obj/Debug/net9.0/Volume.GeneratedMSBuildEditorConfig.editorconfig
+/var/home/ornan/DevOps/Learning_Log/C#/Volume/obj/Debug/net9.0/Volume.AssemblyInfoInputs.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Volume/obj/Debug/net9.0/Volume.AssemblyInfo.cs
+/var/home/ornan/DevOps/Learning_Log/C#/Volume/obj/Debug/net9.0/Volume.csproj.CoreCompileInputs.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Volume/obj/Debug/net9.0/Volume.sourcelink.json
+/var/home/ornan/DevOps/Learning_Log/C#/Volume/obj/Debug/net9.0/Volume.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Volume/obj/Debug/net9.0/refint/Volume.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Volume/obj/Debug/net9.0/Volume.pdb
+/var/home/ornan/DevOps/Learning_Log/C#/Volume/obj/Debug/net9.0/Volume.genruntimeconfig.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Volume/obj/Debug/net9.0/ref/Volume.dll
