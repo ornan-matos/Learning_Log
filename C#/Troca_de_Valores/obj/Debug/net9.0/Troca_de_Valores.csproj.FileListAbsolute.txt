@@ -1,0 +1,15 @@
+/var/home/ornan/DevOps/Learning_Log/C#/Troca_de_Valores/bin/Debug/net9.0/Troca_de_Valores
+/var/home/ornan/DevOps/Learning_Log/C#/Troca_de_Valores/bin/Debug/net9.0/Troca_de_Valores.deps.json
+/var/home/ornan/DevOps/Learning_Log/C#/Troca_de_Valores/bin/Debug/net9.0/Troca_de_Valores.runtimeconfig.json
+/var/home/ornan/DevOps/Learning_Log/C#/Troca_de_Valores/bin/Debug/net9.0/Troca_de_Valores.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Troca_de_Valores/bin/Debug/net9.0/Troca_de_Valores.pdb
+/var/home/ornan/DevOps/Learning_Log/C#/Troca_de_Valores/obj/Debug/net9.0/Troca_de_Valores.GeneratedMSBuildEditorConfig.editorconfig
+/var/home/ornan/DevOps/Learning_Log/C#/Troca_de_Valores/obj/Debug/net9.0/Troca_de_Valores.AssemblyInfoInputs.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Troca_de_Valores/obj/Debug/net9.0/Troca_de_Valores.AssemblyInfo.cs
+/var/home/ornan/DevOps/Learning_Log/C#/Troca_de_Valores/obj/Debug/net9.0/Troca_de_Valores.csproj.CoreCompileInputs.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Troca_de_Valores/obj/Debug/net9.0/Troca_de_Valores.sourcelink.json
+/var/home/ornan/DevOps/Learning_Log/C#/Troca_de_Valores/obj/Debug/net9.0/Troca_de_Valores.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Troca_de_Valores/obj/Debug/net9.0/refint/Troca_de_Valores.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Troca_de_Valores/obj/Debug/net9.0/Troca_de_Valores.pdb
+/var/home/ornan/DevOps/Learning_Log/C#/Troca_de_Valores/obj/Debug/net9.0/Troca_de_Valores.genruntimeconfig.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Troca_de_Valores/obj/Debug/net9.0/ref/Troca_de_Valores.dll

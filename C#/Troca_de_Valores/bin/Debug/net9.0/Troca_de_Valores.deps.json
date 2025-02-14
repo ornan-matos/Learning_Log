@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Troca_de_Valores/1.0.0": {
+        "runtime": {
+          "Troca_de_Valores.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Troca_de_Valores/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
