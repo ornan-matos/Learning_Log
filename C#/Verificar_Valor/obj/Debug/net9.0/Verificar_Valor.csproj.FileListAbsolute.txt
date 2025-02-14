@@ -1,0 +1,15 @@
+/var/home/ornan/DevOps/Learning_Log/C#/Verificar_Valor/bin/Debug/net9.0/Verificar_Valor
+/var/home/ornan/DevOps/Learning_Log/C#/Verificar_Valor/bin/Debug/net9.0/Verificar_Valor.deps.json
+/var/home/ornan/DevOps/Learning_Log/C#/Verificar_Valor/bin/Debug/net9.0/Verificar_Valor.runtimeconfig.json
+/var/home/ornan/DevOps/Learning_Log/C#/Verificar_Valor/bin/Debug/net9.0/Verificar_Valor.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Verificar_Valor/bin/Debug/net9.0/Verificar_Valor.pdb
+/var/home/ornan/DevOps/Learning_Log/C#/Verificar_Valor/obj/Debug/net9.0/Verificar_Valor.GeneratedMSBuildEditorConfig.editorconfig
+/var/home/ornan/DevOps/Learning_Log/C#/Verificar_Valor/obj/Debug/net9.0/Verificar_Valor.AssemblyInfoInputs.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Verificar_Valor/obj/Debug/net9.0/Verificar_Valor.AssemblyInfo.cs
+/var/home/ornan/DevOps/Learning_Log/C#/Verificar_Valor/obj/Debug/net9.0/Verificar_Valor.csproj.CoreCompileInputs.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Verificar_Valor/obj/Debug/net9.0/Verificar_Valor.sourcelink.json
+/var/home/ornan/DevOps/Learning_Log/C#/Verificar_Valor/obj/Debug/net9.0/Verificar_Valor.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Verificar_Valor/obj/Debug/net9.0/refint/Verificar_Valor.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Verificar_Valor/obj/Debug/net9.0/Verificar_Valor.pdb
+/var/home/ornan/DevOps/Learning_Log/C#/Verificar_Valor/obj/Debug/net9.0/Verificar_Valor.genruntimeconfig.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Verificar_Valor/obj/Debug/net9.0/ref/Verificar_Valor.dll

@@ -4,7 +4,7 @@ class verificar{
 
   static void Main(){
 
-    Console.Write("Insira o valor: ");
+    Console.Write("\nInsira o valor: ");
     int num = Convert.ToInt32(Console.ReadLine());
 
     if (num >= 0 && num <= 9){
