@@ -1,0 +1,15 @@
+/var/home/ornan/DevOps/Learning_Log/C#/Diferença_Maior_para_Menor/bin/Debug/net9.0/Diferença_Maior_para_Menor
+/var/home/ornan/DevOps/Learning_Log/C#/Diferença_Maior_para_Menor/bin/Debug/net9.0/Diferença_Maior_para_Menor.deps.json
+/var/home/ornan/DevOps/Learning_Log/C#/Diferença_Maior_para_Menor/bin/Debug/net9.0/Diferença_Maior_para_Menor.runtimeconfig.json
+/var/home/ornan/DevOps/Learning_Log/C#/Diferença_Maior_para_Menor/bin/Debug/net9.0/Diferença_Maior_para_Menor.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Diferença_Maior_para_Menor/bin/Debug/net9.0/Diferença_Maior_para_Menor.pdb
+/var/home/ornan/DevOps/Learning_Log/C#/Diferença_Maior_para_Menor/obj/Debug/net9.0/Diferença_Maior_para_Menor.GeneratedMSBuildEditorConfig.editorconfig
+/var/home/ornan/DevOps/Learning_Log/C#/Diferença_Maior_para_Menor/obj/Debug/net9.0/Diferença_Maior_para_Menor.AssemblyInfoInputs.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Diferença_Maior_para_Menor/obj/Debug/net9.0/Diferença_Maior_para_Menor.AssemblyInfo.cs
+/var/home/ornan/DevOps/Learning_Log/C#/Diferença_Maior_para_Menor/obj/Debug/net9.0/Diferença_Maior_para_Menor.csproj.CoreCompileInputs.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Diferença_Maior_para_Menor/obj/Debug/net9.0/Diferença_Maior_para_Menor.sourcelink.json
+/var/home/ornan/DevOps/Learning_Log/C#/Diferença_Maior_para_Menor/obj/Debug/net9.0/Diferença_Maior_para_Menor.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Diferença_Maior_para_Menor/obj/Debug/net9.0/refint/Diferença_Maior_para_Menor.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Diferença_Maior_para_Menor/obj/Debug/net9.0/Diferença_Maior_para_Menor.pdb
+/var/home/ornan/DevOps/Learning_Log/C#/Diferença_Maior_para_Menor/obj/Debug/net9.0/Diferença_Maior_para_Menor.genruntimeconfig.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Diferença_Maior_para_Menor/obj/Debug/net9.0/ref/Diferença_Maior_para_Menor.dll
