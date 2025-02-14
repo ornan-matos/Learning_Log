@@ -1,0 +1,15 @@
+/var/home/ornan/DevOps/Learning_Log/C#/Verificar_Código/bin/Debug/net9.0/Verificar_Código
+/var/home/ornan/DevOps/Learning_Log/C#/Verificar_Código/bin/Debug/net9.0/Verificar_Código.deps.json
+/var/home/ornan/DevOps/Learning_Log/C#/Verificar_Código/bin/Debug/net9.0/Verificar_Código.runtimeconfig.json
+/var/home/ornan/DevOps/Learning_Log/C#/Verificar_Código/bin/Debug/net9.0/Verificar_Código.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Verificar_Código/bin/Debug/net9.0/Verificar_Código.pdb
+/var/home/ornan/DevOps/Learning_Log/C#/Verificar_Código/obj/Debug/net9.0/Verificar_Código.GeneratedMSBuildEditorConfig.editorconfig
+/var/home/ornan/DevOps/Learning_Log/C#/Verificar_Código/obj/Debug/net9.0/Verificar_Código.AssemblyInfoInputs.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Verificar_Código/obj/Debug/net9.0/Verificar_Código.AssemblyInfo.cs
+/var/home/ornan/DevOps/Learning_Log/C#/Verificar_Código/obj/Debug/net9.0/Verificar_Código.csproj.CoreCompileInputs.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Verificar_Código/obj/Debug/net9.0/Verificar_Código.sourcelink.json
+/var/home/ornan/DevOps/Learning_Log/C#/Verificar_Código/obj/Debug/net9.0/Verificar_Código.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Verificar_Código/obj/Debug/net9.0/refint/Verificar_Código.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Verificar_Código/obj/Debug/net9.0/Verificar_Código.pdb
+/var/home/ornan/DevOps/Learning_Log/C#/Verificar_Código/obj/Debug/net9.0/Verificar_Código.genruntimeconfig.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Verificar_Código/obj/Debug/net9.0/ref/Verificar_Código.dll
