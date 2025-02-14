@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Verificar_Aprovação/1.0.0": {
+        "runtime": {
+          "Verificar_Aprovação.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Verificar_Aprovação/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+/var/home/ornan/DevOps/Learning_Log/C#/Verificar_Aprovação/bin/Debug/net9.0/Verificar_Aprovação
+/var/home/ornan/DevOps/Learning_Log/C#/Verificar_Aprovação/bin/Debug/net9.0/Verificar_Aprovação.deps.json
+/var/home/ornan/DevOps/Learning_Log/C#/Verificar_Aprovação/bin/Debug/net9.0/Verificar_Aprovação.runtimeconfig.json
+/var/home/ornan/DevOps/Learning_Log/C#/Verificar_Aprovação/bin/Debug/net9.0/Verificar_Aprovação.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Verificar_Aprovação/bin/Debug/net9.0/Verificar_Aprovação.pdb
+/var/home/ornan/DevOps/Learning_Log/C#/Verificar_Aprovação/obj/Debug/net9.0/Verificar_Aprovação.GeneratedMSBuildEditorConfig.editorconfig
+/var/home/ornan/DevOps/Learning_Log/C#/Verificar_Aprovação/obj/Debug/net9.0/Verificar_Aprovação.AssemblyInfoInputs.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Verificar_Aprovação/obj/Debug/net9.0/Verificar_Aprovação.AssemblyInfo.cs
+/var/home/ornan/DevOps/Learning_Log/C#/Verificar_Aprovação/obj/Debug/net9.0/Verificar_Aprovação.csproj.CoreCompileInputs.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Verificar_Aprovação/obj/Debug/net9.0/Verificar_Aprovação.sourcelink.json
+/var/home/ornan/DevOps/Learning_Log/C#/Verificar_Aprovação/obj/Debug/net9.0/Verificar_Aprovação.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Verificar_Aprovação/obj/Debug/net9.0/refint/Verificar_Aprovação.dll
+/var/home/ornan/DevOps/Learning_Log/C#/Verificar_Aprovação/obj/Debug/net9.0/Verificar_Aprovação.pdb
+/var/home/ornan/DevOps/Learning_Log/C#/Verificar_Aprovação/obj/Debug/net9.0/Verificar_Aprovação.genruntimeconfig.cache
+/var/home/ornan/DevOps/Learning_Log/C#/Verificar_Aprovação/obj/Debug/net9.0/ref/Verificar_Aprovação.dll
