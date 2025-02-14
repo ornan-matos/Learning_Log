@@ -7,7 +7,7 @@ class decresente{
 
     for (int n = 0; n < num.Length; n++){
 
-      Console.Write("\nInsira o primeiro número: ");
+      Console.Write("\nInsira um número: ");
       num[n] = Convert.ToInt32(Console.ReadLine());
 
     }
