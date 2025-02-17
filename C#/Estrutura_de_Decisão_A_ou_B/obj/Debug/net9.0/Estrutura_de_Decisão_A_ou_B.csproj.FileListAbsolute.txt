@@ -1,0 +1,14 @@
+/home/ornan/DevOps/Estrutura_de_Decisão_A_ou_B/bin/Debug/net9.0/Estrutura_de_Decisão_A_ou_B
+/home/ornan/DevOps/Estrutura_de_Decisão_A_ou_B/bin/Debug/net9.0/Estrutura_de_Decisão_A_ou_B.deps.json
+/home/ornan/DevOps/Estrutura_de_Decisão_A_ou_B/bin/Debug/net9.0/Estrutura_de_Decisão_A_ou_B.runtimeconfig.json
+/home/ornan/DevOps/Estrutura_de_Decisão_A_ou_B/bin/Debug/net9.0/Estrutura_de_Decisão_A_ou_B.dll
+/home/ornan/DevOps/Estrutura_de_Decisão_A_ou_B/bin/Debug/net9.0/Estrutura_de_Decisão_A_ou_B.pdb
+/home/ornan/DevOps/Estrutura_de_Decisão_A_ou_B/obj/Debug/net9.0/Estrutura_de_Decisão_A_ou_B.GeneratedMSBuildEditorConfig.editorconfig
+/home/ornan/DevOps/Estrutura_de_Decisão_A_ou_B/obj/Debug/net9.0/Estrutura_de_Decisão_A_ou_B.AssemblyInfoInputs.cache
+/home/ornan/DevOps/Estrutura_de_Decisão_A_ou_B/obj/Debug/net9.0/Estrutura_de_Decisão_A_ou_B.AssemblyInfo.cs
+/home/ornan/DevOps/Estrutura_de_Decisão_A_ou_B/obj/Debug/net9.0/Estrutura_de_Decisão_A_ou_B.csproj.CoreCompileInputs.cache
+/home/ornan/DevOps/Estrutura_de_Decisão_A_ou_B/obj/Debug/net9.0/Estrutura_de_Decisão_A_ou_B.dll
+/home/ornan/DevOps/Estrutura_de_Decisão_A_ou_B/obj/Debug/net9.0/refint/Estrutura_de_Decisão_A_ou_B.dll
+/home/ornan/DevOps/Estrutura_de_Decisão_A_ou_B/obj/Debug/net9.0/Estrutura_de_Decisão_A_ou_B.pdb
+/home/ornan/DevOps/Estrutura_de_Decisão_A_ou_B/obj/Debug/net9.0/Estrutura_de_Decisão_A_ou_B.genruntimeconfig.cache
+/home/ornan/DevOps/Estrutura_de_Decisão_A_ou_B/obj/Debug/net9.0/ref/Estrutura_de_Decisão_A_ou_B.dll

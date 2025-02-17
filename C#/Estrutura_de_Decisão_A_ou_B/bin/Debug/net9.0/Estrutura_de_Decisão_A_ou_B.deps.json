@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Estrutura_de_Decisão_A_ou_B/1.0.0": {
+        "runtime": {
+          "Estrutura_de_Decisão_A_ou_B.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Estrutura_de_Decisão_A_ou_B/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
