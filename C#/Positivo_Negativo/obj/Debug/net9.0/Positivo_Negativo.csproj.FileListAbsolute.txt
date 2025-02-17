@@ -1,0 +1,14 @@
+/home/ornan/DevOps/Positivo_Negativo/bin/Debug/net9.0/Positivo_Negativo
+/home/ornan/DevOps/Positivo_Negativo/bin/Debug/net9.0/Positivo_Negativo.deps.json
+/home/ornan/DevOps/Positivo_Negativo/bin/Debug/net9.0/Positivo_Negativo.runtimeconfig.json
+/home/ornan/DevOps/Positivo_Negativo/bin/Debug/net9.0/Positivo_Negativo.dll
+/home/ornan/DevOps/Positivo_Negativo/bin/Debug/net9.0/Positivo_Negativo.pdb
+/home/ornan/DevOps/Positivo_Negativo/obj/Debug/net9.0/Positivo_Negativo.GeneratedMSBuildEditorConfig.editorconfig
+/home/ornan/DevOps/Positivo_Negativo/obj/Debug/net9.0/Positivo_Negativo.AssemblyInfoInputs.cache
+/home/ornan/DevOps/Positivo_Negativo/obj/Debug/net9.0/Positivo_Negativo.AssemblyInfo.cs
+/home/ornan/DevOps/Positivo_Negativo/obj/Debug/net9.0/Positivo_Negativo.csproj.CoreCompileInputs.cache
+/home/ornan/DevOps/Positivo_Negativo/obj/Debug/net9.0/Positivo_Negativo.dll
+/home/ornan/DevOps/Positivo_Negativo/obj/Debug/net9.0/refint/Positivo_Negativo.dll
+/home/ornan/DevOps/Positivo_Negativo/obj/Debug/net9.0/Positivo_Negativo.pdb
+/home/ornan/DevOps/Positivo_Negativo/obj/Debug/net9.0/Positivo_Negativo.genruntimeconfig.cache
+/home/ornan/DevOps/Positivo_Negativo/obj/Debug/net9.0/ref/Positivo_Negativo.dll
