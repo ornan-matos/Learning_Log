@@ -1,0 +1,14 @@
+/home/ornan/DevOps/Valores_e_Condicionais/bin/Debug/net9.0/Valores_e_Condicionais
+/home/ornan/DevOps/Valores_e_Condicionais/bin/Debug/net9.0/Valores_e_Condicionais.deps.json
+/home/ornan/DevOps/Valores_e_Condicionais/bin/Debug/net9.0/Valores_e_Condicionais.runtimeconfig.json
+/home/ornan/DevOps/Valores_e_Condicionais/bin/Debug/net9.0/Valores_e_Condicionais.dll
+/home/ornan/DevOps/Valores_e_Condicionais/bin/Debug/net9.0/Valores_e_Condicionais.pdb
+/home/ornan/DevOps/Valores_e_Condicionais/obj/Debug/net9.0/Valores_e_Condicionais.GeneratedMSBuildEditorConfig.editorconfig
+/home/ornan/DevOps/Valores_e_Condicionais/obj/Debug/net9.0/Valores_e_Condicionais.AssemblyInfoInputs.cache
+/home/ornan/DevOps/Valores_e_Condicionais/obj/Debug/net9.0/Valores_e_Condicionais.AssemblyInfo.cs
+/home/ornan/DevOps/Valores_e_Condicionais/obj/Debug/net9.0/Valores_e_Condicionais.csproj.CoreCompileInputs.cache
+/home/ornan/DevOps/Valores_e_Condicionais/obj/Debug/net9.0/Valores_e_Condicionais.dll
+/home/ornan/DevOps/Valores_e_Condicionais/obj/Debug/net9.0/refint/Valores_e_Condicionais.dll
+/home/ornan/DevOps/Valores_e_Condicionais/obj/Debug/net9.0/Valores_e_Condicionais.pdb
+/home/ornan/DevOps/Valores_e_Condicionais/obj/Debug/net9.0/Valores_e_Condicionais.genruntimeconfig.cache
+/home/ornan/DevOps/Valores_e_Condicionais/obj/Debug/net9.0/ref/Valores_e_Condicionais.dll
