@@ -1,0 +1,15 @@
+/home/ornan/DevOps/Learning_Log/C#/Triangulo/bin/Debug/net9.0/Triangulo
+/home/ornan/DevOps/Learning_Log/C#/Triangulo/bin/Debug/net9.0/Triangulo.deps.json
+/home/ornan/DevOps/Learning_Log/C#/Triangulo/bin/Debug/net9.0/Triangulo.runtimeconfig.json
+/home/ornan/DevOps/Learning_Log/C#/Triangulo/bin/Debug/net9.0/Triangulo.dll
+/home/ornan/DevOps/Learning_Log/C#/Triangulo/bin/Debug/net9.0/Triangulo.pdb
+/home/ornan/DevOps/Learning_Log/C#/Triangulo/obj/Debug/net9.0/Triangulo.GeneratedMSBuildEditorConfig.editorconfig
+/home/ornan/DevOps/Learning_Log/C#/Triangulo/obj/Debug/net9.0/Triangulo.AssemblyInfoInputs.cache
+/home/ornan/DevOps/Learning_Log/C#/Triangulo/obj/Debug/net9.0/Triangulo.AssemblyInfo.cs
+/home/ornan/DevOps/Learning_Log/C#/Triangulo/obj/Debug/net9.0/Triangulo.csproj.CoreCompileInputs.cache
+/home/ornan/DevOps/Learning_Log/C#/Triangulo/obj/Debug/net9.0/Triangulo.sourcelink.json
+/home/ornan/DevOps/Learning_Log/C#/Triangulo/obj/Debug/net9.0/Triangulo.dll
+/home/ornan/DevOps/Learning_Log/C#/Triangulo/obj/Debug/net9.0/refint/Triangulo.dll
+/home/ornan/DevOps/Learning_Log/C#/Triangulo/obj/Debug/net9.0/Triangulo.pdb
+/home/ornan/DevOps/Learning_Log/C#/Triangulo/obj/Debug/net9.0/Triangulo.genruntimeconfig.cache
+/home/ornan/DevOps/Learning_Log/C#/Triangulo/obj/Debug/net9.0/ref/Triangulo.dll
