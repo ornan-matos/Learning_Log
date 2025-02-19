@@ -1,0 +1,15 @@
+/home/ornan/DevOps/Learning_Log/C#/Peso_Estrutura_de_Seleção/bin/Debug/net9.0/Peso_Estrutura_de_Seleção
+/home/ornan/DevOps/Learning_Log/C#/Peso_Estrutura_de_Seleção/bin/Debug/net9.0/Peso_Estrutura_de_Seleção.deps.json
+/home/ornan/DevOps/Learning_Log/C#/Peso_Estrutura_de_Seleção/bin/Debug/net9.0/Peso_Estrutura_de_Seleção.runtimeconfig.json
+/home/ornan/DevOps/Learning_Log/C#/Peso_Estrutura_de_Seleção/bin/Debug/net9.0/Peso_Estrutura_de_Seleção.dll
+/home/ornan/DevOps/Learning_Log/C#/Peso_Estrutura_de_Seleção/bin/Debug/net9.0/Peso_Estrutura_de_Seleção.pdb
+/home/ornan/DevOps/Learning_Log/C#/Peso_Estrutura_de_Seleção/obj/Debug/net9.0/Peso_Estrutura_de_Seleção.GeneratedMSBuildEditorConfig.editorconfig
+/home/ornan/DevOps/Learning_Log/C#/Peso_Estrutura_de_Seleção/obj/Debug/net9.0/Peso_Estrutura_de_Seleção.AssemblyInfoInputs.cache
+/home/ornan/DevOps/Learning_Log/C#/Peso_Estrutura_de_Seleção/obj/Debug/net9.0/Peso_Estrutura_de_Seleção.AssemblyInfo.cs
+/home/ornan/DevOps/Learning_Log/C#/Peso_Estrutura_de_Seleção/obj/Debug/net9.0/Peso_Estrutura_de_Seleção.csproj.CoreCompileInputs.cache
+/home/ornan/DevOps/Learning_Log/C#/Peso_Estrutura_de_Seleção/obj/Debug/net9.0/Peso_Estrutura_de_Seleção.sourcelink.json
+/home/ornan/DevOps/Learning_Log/C#/Peso_Estrutura_de_Seleção/obj/Debug/net9.0/Peso_Estrutura_de_Seleção.dll
+/home/ornan/DevOps/Learning_Log/C#/Peso_Estrutura_de_Seleção/obj/Debug/net9.0/refint/Peso_Estrutura_de_Seleção.dll
+/home/ornan/DevOps/Learning_Log/C#/Peso_Estrutura_de_Seleção/obj/Debug/net9.0/Peso_Estrutura_de_Seleção.pdb
+/home/ornan/DevOps/Learning_Log/C#/Peso_Estrutura_de_Seleção/obj/Debug/net9.0/Peso_Estrutura_de_Seleção.genruntimeconfig.cache
+/home/ornan/DevOps/Learning_Log/C#/Peso_Estrutura_de_Seleção/obj/Debug/net9.0/ref/Peso_Estrutura_de_Seleção.dll
