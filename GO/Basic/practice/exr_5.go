@@ -15,5 +15,6 @@ func main()  {
 }
 
 fmt.Println(x[2:4])
+fmt.Println(x[:len(x)])
   
 }
