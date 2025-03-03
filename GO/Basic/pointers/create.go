@@ -20,4 +20,11 @@ func main(){
   fmt.Printf("cont2: %#v\n", cont2)
   fmt.Printf("cont3: %#v\n", cont3)
   fmt.Printf("time : %#v\n", t)
+
+
+  cont := &[]int{5}[0]
+
+  fmt.Printf("Endereço: %p\n", cont)
+  fmt.Printf("Valor: %d\n", *cont)
+  fmt.Printf("Forma alternativa: %#v\n", cont)
 }
