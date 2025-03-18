@@ -1,66 +1,47 @@
 package main
+/*
+Este programa em Go realiza uma validação de um número inteiro e trata erros de maneira simples. A função validação verifica se o valor fornecido é negativo, maior que 100 ou divisível por 7, retornando um erro correspondente em cada uma dessas condições. Caso contrário, ela retorna nil. No main, o valor é validado e, caso um erro seja retornado, ele é impresso. Se não houver erro, o programa verifica se o número é par ou ímpar.
+*/
 
 import (
+	"errors"
 	"fmt"
 )
 
-/* 
-Este programa implementa um cache simples usando um mapa (map) em Go.
-Ele permite armazenar e recuperar informações de livros e CDs a partir de chaves específicas.
-Há um limite global para o tamanho do cache, evitando que ele ultrapasse um valor máximo.
-*/
-
-const (
-	globaLimit    int    = 100  // Limite base para cálculos de cache
-	MaxCacheSize  int    = 10 * globaLimit // Tamanho máximo permitido para o cache
-
-	CacheKeyBook  string = "book" // Prefixo para chaves de livros no cache
-	CacheKeyCD    string = "cd_"  // Prefixo para chaves de CDs no cache
-)
-
-var cache map[string]string // Mapa que atua como o cache em memória
-
-// Função auxiliar para recuperar um valor do cache usando uma chave específica
-func cacheGet(key string) string {
-	return cache[key]
-}
-
-// Recupera um livro do cache com base no ISBN
-func GetBook(isbn string) string {
-	return cacheGet(CacheKeyBook + isbn)
-}
-
-// Recupera um CD do cache com base no SKU
-func GetCD(sku string) string {
-	return cacheGet(CacheKeyCD + sku)
-}
-
-// Função auxiliar para armazenar um valor no cache, respeitando o limite máximo
-func cacheSet(key, val string) {
-	if len(cache)+1 >= MaxCacheSize { // Verifica se o cache atingiu o limite antes de adicionar
-		return
+// A função validacao recebe um valor inteiro e retorna um erro dependendo das condições especificadas.
+func validacao(valor int) error{
+	// Se o valor for negativo, retorna um erro.
+	if valor < 0 {
+		return errors.New("Erro! Número negativo.")
+	} 
+	// Se o valor for maior que 100, retorna um erro.
+	else if valor > 100 {
+		return errors.New("Erro! Maior que 100.")
+	} 
+	// Se o valor for divisível por 7, retorna um erro.
+	else if valor % 7 == 0 {
+		return errors.New("O valor é divisível por 7")
+	} 
+	// Caso contrário, retorna nil indicando que não há erro.
+	else {
+		return nil
 	}
-	cache[key] = val // Adiciona o valor ao cache
 }
 
-// Armazena um livro no cache usando o ISBN como parte da chave
-func SetBook(isbn string, name string) {
-	cacheSet(CacheKeyBook+isbn, name)
+func main(){
+	// O valor que será validado
+	valor := -10
+
+	// Chama a função validacao e verifica se ocorreu algum erro.
+	if err := validacao(valor); err != nil {
+		// Se houver erro, imprime a mensagem do erro.
+		fmt.Println(err)
+	} 
+	// Se não houver erro, verifica se o número é par ou ímpar.
+	else if valor % 2 == 0 {
+		fmt.Println("O valor é par")
+	} else {
+		fmt.Println("O valor é ímpar")
+	}
 }
 
-// Armazena um CD no cache usando o SKU como parte da chave
-func SetCD(sku string, title string) {
-	cacheSet(CacheKeyCD+sku, title)
-}
-
-func main() {
-	cache = make(map[string]string) // Inicializa o cache como um mapa vazio
-
-	// Adiciona um livro e um CD ao cache
-	SetBook("1234-5678", "Get Ready To Go")
-	SetCD("1234-5678", "Get Ready To Go Audio Book")
-
-	// Recupera e imprime os itens armazenados no cache
-	fmt.Println("Book:", GetBook("1234-5678"))
-	fmt.Println("CD:", GetCD("1234-5678"))
-}
