@@ -1,27 +1,84 @@
-# LERANING LOG
+# Learning Log
 
-Olá e bem-vindo(a) ao meu portfólio de **novas habilidades** no Github!
+Bem-vindo ao meu portfólio de aprendizado contínuo! Este repositório reúne experimentos e projetos desenvolvidos durante minha jornada de estudos em diversas linguagens de programação. Cada diretório contém arquivos e exemplos que podem ser executados e testados individualmente.
 
-Aqui você encontrará alguns dos meus experimentos mais recentes e interessantes, relacionados a linguagens que venho aprendendo diariamente. Tenho agregando esse conhecimento ao meu repertorio através de pequenos projetos e arquivos que podem ser executados e testados por qualquer pessoa.
+## 📁 Estrutura do Repositório
 
-Para começar, aqui está algumas linguagens que tenho dado enfase em minha carreira:
+* **C#/**: Exemplos e projetos em C#.
+* **C/**: Códigos e exercícios em linguagem C.
+* **GO/**: Projetos e scripts em Go.
+* **HTML/**: Páginas e componentes em HTML.
+* **Python/**: Scripts e projetos em Python.
+* **Rust/**: Exemplo básico em Rust.
+* **Shell Script/**: Scripts de automação em Shell.
 
-#
+## 🛠️ Como Executar os Arquivos
 
-| LINGUAGENS  | IMPORTANTES CARACTERÍSTICAS|
-| :---- | :----    |
-| Go    | Eficiente, segura, concorrente e escalável. |
-| Python| Procedural, multiplataforma, orientada a objetos, dinâmica funcional.|
-| C     | Portável, flexível, amplamente utilizada em códigos legados. |
-| HTML  | Compatibilidade, estruturação lógica, multimídia e acessibilidade.  |
-| CSS   | Flexibilidade na estilização, consistência visual e adaptabilidade. |
+### C# (`.cs`)
 
-#
+* **Requisitos**: [.NET SDK](https://dotnet.microsoft.com/download)
+* **Compilar e Executar**:
 
-É importante destacar que registrar prática é fundamental para consolidar novos conhecimentos, aprimorar habilidades  e identificar possíveis dificuldades. E esse são alguns do motivos que me impulsiona a alimentar esse repositório.
+  ```bash
+  dotnet build
+  dotnet run
+  ```
 
- 
-Se você quiser saber mais sobre mim ou entrar em contato comigo, fique à vontade para me enviar uma mensagem aqui no Github ou através do meu e-mail **ornanmatos@riseup.net**. Agradeço por visitar meu repositório e espero ter a oportunidade de compartilhar conhecimentos com você no futuro!
+### C (`.c`)
 
-Acesse [ornan.dev](http://ornan.dev) para obter informações sobre a minha trajetória profissional.
+* **Requisitos**: Compilador GCC
+* **Compilar e Executar**:
+
+  ```bash
+  gcc nome_do_arquivo.c -o nome_do_executavel
+  ./nome_do_executavel
+  ```
+
+### Go (`.go`)
+
+* **Requisitos**: [Go](https://golang.org/dl/)
+* **Executar**:
+
+  ```bash
+  go run nome_do_arquivo.go
+  ```
+
+### HTML (`.html`)
+
+* **Requisitos**: Navegador web
+* **Visualizar**: Abra o arquivo `.html` no navegador de sua preferência.
+
+### Python (`.py`)
+
+* **Requisitos**: [Python 3](https://www.python.org/downloads/)
+* **Executar**:
+
+  ```bash
+  python nome_do_arquivo.py
+  ```
+
+### Rust (`.rs`)
+
+* **Requisitos**: [Rust](https://www.rust-lang.org/tools/install)
+* **Compilar e Executar**:
+
+  ```bash
+  rustc nome_do_arquivo.rs
+  ./nome_do_arquivo
+  ```
+
+### Shell Script (`.sh`)
+
+* **Requisitos**: Terminal Unix/Linux
+* **Executar**:
+
+  ```bash
+  chmod +x nome_do_script.sh
+  ./nome_do_script.sh
+  ```
+
+## 📌 Observações
+
+* Cada diretório contém exemplos independentes. Sinta-se à vontade para explorar e modificar os arquivos conforme necessário.
+* Certifique-se de ter os ambientes de desenvolvimento apropriados instalados para cada linguagem antes de executar os exemplos.
 
